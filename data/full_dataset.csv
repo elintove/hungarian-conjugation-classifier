@@ -1,0 +1,1201 @@
+sentence,label,object_type,object,difficulty,subject_type,subject,template_id,split
+Egy levelet ma a diákok [VERB].,indefinite,indefinite_article,egy levelet,easy,noun,A diákok,train_noun_053,train
+Gábor az iskolában [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,Gábor,train_noun_045,train
+[VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_000,train
+Este [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,train_none_006,train
+A tanár [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,A tanár,train_noun_000,train
+Gyakran [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_003,train
+Amazt gyakran [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_011,train
+Ma [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_001,train
+Este [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_006,train
+Gyakran [VERB] az almát.,definite,definite_article,az almát,easy,none,,train_none_003,train
+Egy előadást ma [VERB].,indefinite,indefinite_article,egy előadást,easy,none,,train_none_009,train
+[VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_000,train
+[VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_000,train
+Katalin az iskolában [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,Katalin,train_noun_039,train
+Tegnap [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_002,train
+A könyvet gyakran [VERB].,definite,definite_article,a könyvet,easy,none,,train_none_011,train
+Pétert ma Péter [VERB].,definite,proper_noun,Pétert,easy,noun,Péter,train_noun_035,train
+[VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_000,train
+Mindkettőt ma Gábor [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,Gábor,train_noun_047,train
+A diákok az iskolában [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,noun,A diákok,train_noun_051,train
+Mindegyiket Katalin [VERB].,definite,definite_quantifier,mindegyiket,tricky,noun,Katalin,train_noun_040,train
+Azt a levelet a gyerek [VERB].,definite,demonstrative,azt a levelet,easy,noun,A gyerek,train_noun_016,train
+Emezt tegnap [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_010,train
+Most [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_007,train
+Este [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_006,train
+A tanár gyakran [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,noun,A tanár,train_noun_002,train
+Reggel [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_005,train
+Gyakran [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_003,train
+Este [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,none,,train_none_006,train
+Gábor gyakran [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,Gábor,train_noun_044,train
+Gábort ma a diákok [VERB].,definite,proper_noun,Gábort,easy,noun,A diákok,train_noun_053,train
+Este [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,train_none_006,train
+Előadást gyakran [VERB].,indefinite,bare_noun,előadást,easy,none,,train_none_011,train
+Ma [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,train_none_001,train
+Néhány könyvet a diákok [VERB].,indefinite,quantified_indefinite_np,néhány könyvet,medium,noun,A diákok,train_noun_052,train
+Mindenkit gyakran [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_011,train
+[VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,train_none_000,train
+Gyakran [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_003,train
+Ma [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_001,train
+Tegnap [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_002,train
+Este [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_006,train
+Ma [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,train_none_001,train
+Több almát tegnap [VERB].,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_010,train
+Kevés hibát tegnap [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_010,train
+Reggel [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_005,train
+Tegnap [VERB] almát.,indefinite,bare_noun,almát,easy,none,,train_none_002,train
+Senkit a diák nem [VERB].,indefinite,negative_pronoun,senkit,tricky,noun,A diák,train_noun_005,train
+Most [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,train_none_007,train
+Tegnap [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_002,train
+Gábor gyakran [VERB] az előadást.,definite,definite_article,az előadást,easy,noun,Gábor,train_noun_044,train
+A diák [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,noun,A diák,train_noun_006,train
+Néhányat gyakran [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_011,train
+Amazt [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_008,train
+Egy dolgot sem mi nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Mi,train_pronoun_008,train
+Este [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,train_none_006,train
+Otthon [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_004,train
+Egy újságot tegnap [VERB].,indefinite,indefinite_article,egy újságot,easy,none,,train_none_010,train
+Gyakran [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_003,train
+A szomszéd az iskolában [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,noun,A szomszéd,train_noun_021,train
+Reggel [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_005,train
+Este [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,none,,train_none_006,train
+Minden egyes dolgot ma a tanár [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,A tanár,train_noun_005,train
+Tegnap [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_002,train
+Pár kérdést ma [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_009,train
+Ők nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,pronoun,Ők,train_pronoun_009,train
+Most [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_007,train
+Gyakran [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_003,train
+Most [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_007,train
+Ezt a szülők [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,A szülők,train_noun_058,train
+Gábor [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,Gábor,train_noun_042,train
+Egy filmet gyakran [VERB].,indefinite,indefinite_article,egy filmet,easy,none,,train_none_011,train
+Most [VERB] a filmet.,definite,definite_article,a filmet,easy,none,,train_none_007,train
+[VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_000,train
+Gyakran [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_003,train
+Most [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,none,,train_none_007,train
+Semmifélét Gábor nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,Gábor,train_noun_023,train
+Ezt Péter [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,Péter,train_noun_034,train
+Ma [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_001,train
+A tanár ma [VERB] magát.,definite,third_person_pronoun,magát,tricky,noun,A tanár,train_noun_001,train
+Otthon [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_004,train
+Otthon [VERB] az autót.,definite,definite_article,az autót,easy,none,,train_none_004,train
+Tegnap [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_002,train
+Mindegyiket [VERB].,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_008,train
+Ma [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,train_none_001,train
+Egy filmet tegnap [VERB].,indefinite,indefinite_article,egy filmet,easy,none,,train_none_010,train
+Minden egyes dolgot [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_008,train
+Újságot a diák [VERB].,indefinite,bare_noun,újságot,easy,noun,A diák,train_noun_010,train
+Sok filmet ma Gábor [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,Gábor,train_noun_047,train
+Egy embert sem Katalin nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,noun,Katalin,train_noun_020,train
+A szülők [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,A szülők,train_noun_054,train
+[VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_000,train
+Otthon [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_004,train
+Sok filmet ma a gyerek [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A gyerek,train_noun_017,train
+Mi ma [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,pronoun,Mi,train_pronoun_007,train
+Most [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_007,train
+Katalin gyakran [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,noun,Katalin,train_noun_038,train
+Újságot ők [VERB].,indefinite,bare_noun,újságot,easy,pronoun,Ők,train_pronoun_011,train
+Gyakran [VERB] Annát.,definite,proper_noun,Annát,easy,none,,train_none_003,train
+Ezt a feladatot ma [VERB].,definite,demonstrative,ezt a feladatot,easy,none,,train_none_009,train
+Katalin gyakran [VERB] a könyvet.,definite,definite_article,a könyvet,easy,noun,Katalin,train_noun_038,train
+A tanár [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,noun,A tanár,train_noun_000,train
+[VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_000,train
+Sok filmet ma [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_009,train
+Újságot [VERB].,indefinite,bare_noun,újságot,easy,none,,train_none_008,train
+A piros labdát ma Anna [VERB].,definite,modified_definite_np,a piros labdát,easy,noun,Anna,train_noun_029,train
+Otthon [VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_004,train
+Minden egyes dolgot tegnap [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_010,train
+[VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_000,train
+Este [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_006,train
+Tegnap [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_002,train
+Te [VERB] őket.,definite,third_person_pronoun,őket,easy,pronoun,Te,train_pronoun_003,train
+Akárkit gyakran [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_011,train
+A régi házat ma [VERB].,definite,modified_definite_np,a régi házat,easy,none,,train_none_009,train
+Kevés hibát [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_008,train
+Én [VERB] autót.,indefinite,bare_noun,autót,easy,pronoun,Én,train_pronoun_000,train
+A diákok gyakran [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,noun,A diákok,train_noun_050,train
+Néhány könyvet mi [VERB].,indefinite,quantified_indefinite_np,néhány könyvet,medium,pronoun,Mi,train_pronoun_008,train
+A vacsorát én [VERB].,definite,definite_article,a vacsorát,easy,pronoun,Én,train_pronoun_002,train
+Valamit tegnap [VERB].,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_010,train
+Azt az üzenetet gyakran [VERB].,definite,demonstrative,azt az üzenetet,easy,none,,train_none_011,train
+Egy autót tegnap [VERB].,indefinite,indefinite_article,egy autót,easy,none,,train_none_010,train
+Újságot ma [VERB].,indefinite,bare_noun,újságot,easy,none,,train_none_009,train
+Valamennyit [VERB].,definite,definite_quantifier,valamennyit,tricky,none,,train_none_008,train
+Gábort [VERB].,definite,proper_noun,Gábort,easy,none,,train_none_008,train
+Ma [VERB] Annát.,definite,proper_noun,Annát,easy,none,,train_none_001,train
+A szomszéd ma [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,noun,A szomszéd,train_noun_019,train
+Emezt mi [VERB].,definite,demonstrative_pronoun,emezt,tricky,pronoun,Mi,train_pronoun_008,train
+A vacsorát [VERB].,definite,definite_article,a vacsorát,easy,none,,train_none_008,train
+Este [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_006,train
+Az egészet ma [VERB].,definite,definite_quantifier,az egészet,tricky,none,,train_none_009,train
+Otthon [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_004,train
+Pár kérdést a gyerek [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,noun,A gyerek,train_noun_016,train
+Este [VERB] a levelet.,definite,definite_article,a levelet,easy,none,,train_none_006,train
+Ők [VERB] almát.,indefinite,bare_noun,almát,easy,pronoun,Ők,train_pronoun_009,train
+A legtöbbet tegnap [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_010,train
+A diák gyakran [VERB] Pétert.,definite,proper_noun,Pétert,easy,noun,A diák,train_noun_008,train
+Péter [VERB] az almát.,definite,definite_article,az almát,easy,noun,Péter,train_noun_030,train
+Gyakran [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,train_none_003,train
+Azt a diákok [VERB].,definite,demonstrative_pronoun,azt,tricky,noun,A diákok,train_noun_052,train
+[VERB] az autót.,definite,definite_article,az autót,easy,none,,train_none_000,train
+Egy dolgot sem nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,train_none_003,train
+Most [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,train_none_007,train
+Egy könyvet ma [VERB].,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_009,train
+Egy almát [VERB].,indefinite,indefinite_article,egy almát,easy,none,,train_none_008,train
+Gyakran [VERB] Gábort.,definite,proper_noun,Gábort,easy,none,,train_none_003,train
+Ezt gyakran [VERB].,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_011,train
+[VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_000,train
+Gyakran [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_003,train
+Akármit a gyerek [VERB].,indefinite,indefinite_pronoun,akármit,tricky,noun,A gyerek,train_noun_016,train
+Reggel [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_005,train
+Este [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_006,train
+A szülők gyakran [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,noun,A szülők,train_noun_056,train
+Azt tegnap [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,train_none_010,train
+Gyakran [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,train_none_003,train
+[VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_000,train
+A diák [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,noun,A diák,train_noun_006,train
+Tegnap [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_002,train
+A gyerek gyakran [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,noun,A gyerek,train_noun_014,train
+A szülők [VERB] magát.,definite,third_person_pronoun,magát,tricky,noun,A szülők,train_noun_054,train
+Előadást tegnap [VERB].,indefinite,bare_noun,előadást,easy,none,,train_none_010,train
+Tegnap [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_002,train
+Tegnap [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_002,train
+A szülők gyakran [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A szülők,train_noun_056,train
+Most [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_007,train
+Mindkettőt gyakran [VERB].,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_011,train
+Annát tegnap [VERB].,definite,proper_noun,Annát,easy,none,,train_none_010,train
+Mindet gyakran [VERB].,definite,definite_quantifier,mindet,tricky,none,,train_none_011,train
+Egy újságot gyakran [VERB].,indefinite,indefinite_article,egy újságot,easy,none,,train_none_011,train
+A gyerek az iskolában [VERB] a többit.,definite,definite_quantifier,a többit,tricky,noun,A gyerek,train_noun_015,train
+Magukat gyakran [VERB].,definite,third_person_pronoun,magukat,tricky,none,,train_none_011,train
+Tegnap [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_002,train
+Mindent [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,train_none_008,train
+Több almát ma [VERB].,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_009,train
+A diákok [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A diákok,train_noun_048,train
+Este [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_006,train
+Azt a gyerek [VERB].,definite,demonstrative_pronoun,azt,tricky,noun,A gyerek,train_noun_016,train
+Most [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_007,train
+Gábort ma a tanár [VERB].,definite,proper_noun,Gábort,easy,noun,A tanár,train_noun_005,train
+Otthon [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,train_none_004,train
+Gábor az iskolában [VERB] almát.,indefinite,bare_noun,almát,easy,noun,Gábor,train_noun_045,train
+Azt [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,train_none_008,train
+Gyakran [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_003,train
+Akárkit ma a szomszéd [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,noun,A szomszéd,train_noun_023,train
+Nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,train_none_000,train
+Esztert ma [VERB].,definite,proper_noun,Esztert,easy,none,,train_none_009,train
+Otthon [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_004,train
+[VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,train_none_000,train
+Péter az iskolában [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,Péter,train_noun_033,train
+[VERB] a filmet.,definite,definite_article,a filmet,easy,none,,train_none_000,train
+Most [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_007,train
+Én [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,pronoun,Én,train_pronoun_000,train
+A szülők az iskolában [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,noun,A szülők,train_noun_057,train
+A gyerek ma [VERB] Annát.,definite,proper_noun,Annát,easy,noun,A gyerek,train_noun_013,train
+Tegnap [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_002,train
+Semmit Anna nem [VERB].,indefinite,negative_pronoun,semmit,tricky,noun,Anna,train_noun_014,train
+Otthon [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_004,train
+Anna gyakran [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,noun,Anna,train_noun_026,train
+Este [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,train_none_006,train
+Magukat ma [VERB].,definite,third_person_pronoun,magukat,tricky,none,,train_none_009,train
+Most [VERB] almát.,indefinite,bare_noun,almát,easy,none,,train_none_007,train
+A szülők [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,A szülők,train_noun_054,train
+A diákok az iskolában [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,noun,A diákok,train_noun_051,train
+Tegnap [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_002,train
+Egy embert sem nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,none,,train_none_003,train
+Ezt ők [VERB].,definite,demonstrative_pronoun,ezt,tricky,pronoun,Ők,train_pronoun_011,train
+Este [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_006,train
+Reggel [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_005,train
+Tegnap [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_002,train
+A gyerek [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,noun,A gyerek,train_noun_012,train
+Semmifélét a gyerek nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,A gyerek,train_noun_008,train
+Egyvalakit gyakran [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_011,train
+A tanár [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,A tanár,train_noun_000,train
+Katalin gyakran [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,noun,Katalin,train_noun_038,train
+Tegnap [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,train_none_002,train
+Gyakran [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_003,train
+Tegnap [VERB] az almát.,definite,definite_article,az almát,easy,none,,train_none_002,train
+Könyvet [VERB].,indefinite,bare_noun,könyvet,easy,none,,train_none_008,train
+A diák nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,noun,A diák,train_noun_003,train
+Mindenfélét ma a gyerek [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,A gyerek,train_noun_017,train
+A többit a szomszéd [VERB].,definite,definite_quantifier,a többit,tricky,noun,A szomszéd,train_noun_022,train
+A piros labdát Péter [VERB].,definite,modified_definite_np,a piros labdát,easy,noun,Péter,train_noun_034,train
+Reggel [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_005,train
+Ők [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,pronoun,Ők,train_pronoun_009,train
+Gyakran [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_003,train
+Este [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,train_none_006,train
+Te ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,train_pronoun_004,train
+Péter gyakran [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,Péter,train_noun_032,train
+A vacsorát gyakran [VERB].,definite,definite_article,a vacsorát,easy,none,,train_none_011,train
+Otthon [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_004,train
+Tegnap [VERB] a vacsorát.,definite,definite_article,a vacsorát,easy,none,,train_none_002,train
+Néhányat mi [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,pronoun,Mi,train_pronoun_008,train
+Katalin [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,Katalin,train_noun_036,train
+Ma [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_001,train
+Este [VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_006,train
+Esztert gyakran [VERB].,definite,proper_noun,Esztert,easy,none,,train_none_011,train
+Ma [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_001,train
+Gyakran [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_003,train
+Este [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_006,train
+Gyakran [VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_003,train
+Este [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_006,train
+Ezt a könyvet ma [VERB].,definite,demonstrative,ezt a könyvet,easy,none,,train_none_009,train
+A szülők ma [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,noun,A szülők,train_noun_055,train
+Pár kérdést ők [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,pronoun,Ők,train_pronoun_011,train
+Valamennyit tegnap [VERB].,definite,definite_quantifier,valamennyit,tricky,none,,train_none_010,train
+Reggel [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,train_none_005,train
+Egy vacsorát tegnap [VERB].,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_010,train
+A vacsorát te [VERB].,definite,definite_article,a vacsorát,easy,pronoun,Te,train_pronoun_005,train
+Ma [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,none,,train_none_001,train
+Este [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,train_none_006,train
+Reggel [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_005,train
+Mindkettőt ma a diákok [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A diákok,train_noun_053,train
+Katalin az iskolában [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,noun,Katalin,train_noun_039,train
+Otthon [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_004,train
+Gábor az iskolában [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,noun,Gábor,train_noun_045,train
+Azt a filmet gyakran [VERB].,definite,demonstrative,azt a filmet,easy,none,,train_none_011,train
+Este [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,train_none_006,train
+Ma [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_001,train
+Minden egyes dolgot ma [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_009,train
+Katalin [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,noun,Katalin,train_noun_036,train
+Ma [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_001,train
+Otthon [VERB] őket.,definite,third_person_pronoun,őket,easy,none,,train_none_004,train
+Reggel [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,none,,train_none_005,train
+Akármit a tanár [VERB].,indefinite,indefinite_pronoun,akármit,tricky,noun,A tanár,train_noun_004,train
+Emezt gyakran [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_011,train
+Tegnap [VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_002,train
+Egyvalakit ma [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_009,train
+Az egészet ma a gyerek [VERB].,definite,definite_quantifier,az egészet,tricky,noun,A gyerek,train_noun_017,train
+Könyvet tegnap [VERB].,indefinite,bare_noun,könyvet,easy,none,,train_none_010,train
+A könyvet a szomszéd [VERB].,definite,definite_article,a könyvet,easy,noun,A szomszéd,train_noun_022,train
+Otthon [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_004,train
+Otthon [VERB] Annát.,definite,proper_noun,Annát,easy,none,,train_none_004,train
+Gyakran [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,none,,train_none_003,train
+Otthon [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_004,train
+Amazt ők [VERB].,definite,demonstrative_pronoun,amazt,tricky,pronoun,Ők,train_pronoun_011,train
+Gyakran [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_003,train
+Reggel [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_005,train
+Gábort tegnap [VERB].,definite,proper_noun,Gábort,easy,none,,train_none_010,train
+Egy autót ma [VERB].,indefinite,indefinite_article,egy autót,easy,none,,train_none_009,train
+[VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_000,train
+Egy újságot [VERB].,indefinite,indefinite_article,egy újságot,easy,none,,train_none_008,train
+Mindent gyakran [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,train_none_011,train
+Tegnap [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_002,train
+Nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,train_none_000,train
+A szomszéd az iskolában [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,A szomszéd,train_noun_021,train
+[VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_000,train
+Most [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_007,train
+Az új telefont ma a gyerek [VERB].,definite,modified_definite_np,az új telefont,easy,noun,A gyerek,train_noun_017,train
+Anna ma [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,Anna,train_noun_025,train
+Mindenfélét gyakran [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_011,train
+Este [VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,none,,train_none_006,train
+Gyakran [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,train_none_003,train
+Katalin gyakran [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,noun,Katalin,train_noun_038,train
+Magukat tegnap [VERB].,definite,third_person_pronoun,magukat,tricky,none,,train_none_010,train
+Minden egyes dolgot te [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,pronoun,Te,train_pronoun_005,train
+Otthon [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_004,train
+Soha nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,train_none_002,train
+[VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_000,train
+A gyerek az iskolában [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,A gyerek,train_noun_015,train
+Amazt ma [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_009,train
+Néhányat [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_008,train
+Most [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_007,train
+Mindenfélét Katalin [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,Katalin,train_noun_040,train
+Katalin az iskolában [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,noun,Katalin,train_noun_039,train
+Valamennyit gyakran [VERB].,definite,definite_quantifier,valamennyit,tricky,none,,train_none_011,train
+Semmifélét ma nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,none,,train_none_004,train
+Most [VERB] a levelet.,definite,definite_article,a levelet,easy,none,,train_none_007,train
+Reggel [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,train_none_005,train
+Tegnap [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_002,train
+Valakit ma a szomszéd [VERB].,indefinite,indefinite_pronoun,valakit,easy,noun,A szomszéd,train_noun_023,train
+Este [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_006,train
+A szülők ma [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,noun,A szülők,train_noun_055,train
+Minden egyes dolgot ma a szülők [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,A szülők,train_noun_059,train
+Gyakran [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_003,train
+A szomszéd gyakran [VERB] Esztert.,definite,proper_noun,Esztert,easy,noun,A szomszéd,train_noun_020,train
+Újságot gyakran [VERB].,indefinite,bare_noun,újságot,easy,none,,train_none_011,train
+Ma [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_001,train
+Reggel [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_005,train
+Reggel [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_005,train
+Péter [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,Péter,train_noun_030,train
+Egyvalakit [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_008,train
+Reggel [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_005,train
+Gábor gyakran [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,noun,Gábor,train_noun_044,train
+Reggel [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,train_none_005,train
+Este [VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_006,train
+Este [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_006,train
+Akárkit tegnap [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_010,train
+Otthon [VERB] a filmet.,definite,definite_article,a filmet,easy,none,,train_none_004,train
+Én ma [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,pronoun,Én,train_pronoun_001,train
+Ők ma [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,pronoun,Ők,train_pronoun_010,train
+Soha nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,none,,train_none_002,train
+Gábor ma [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,Gábor,train_noun_043,train
+Otthon [VERB] a vacsorát.,definite,definite_article,a vacsorát,easy,none,,train_none_004,train
+Annát ma [VERB].,definite,proper_noun,Annát,easy,none,,train_none_009,train
+Reggel [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,none,,train_none_005,train
+A diák az iskolában [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,noun,A diák,train_noun_009,train
+A szülők [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,A szülők,train_noun_054,train
+Tegnap [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_002,train
+A szülők az iskolában [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,noun,A szülők,train_noun_057,train
+Egy dolgot sem te nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Te,train_pronoun_005,train
+Több almát [VERB].,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_008,train
+Emezt ma [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_009,train
+Egyvalakit a diák [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A diák,train_noun_010,train
+Este [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_006,train
+Otthon [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_004,train
+Este [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_006,train
+A diákok [VERB] levelet.,indefinite,bare_noun,levelet,easy,noun,A diákok,train_noun_048,train
+[VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_000,train
+Bárkit gyakran [VERB].,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_011,train
+Néhány levelet tegnap [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_010,train
+[VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_000,train
+Katalin [VERB] a filmet.,definite,definite_article,a filmet,easy,noun,Katalin,train_noun_036,train
+Mindenkit a szomszéd [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,A szomszéd,train_noun_022,train
+A szülők ma [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A szülők,train_noun_055,train
+Reggel [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_005,train
+Egy dolgot sem én nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Én,train_pronoun_002,train
+Gábor ma [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,noun,Gábor,train_noun_043,train
+Mindenkit a szülők [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,A szülők,train_noun_058,train
+Én ma [VERB] az autót.,definite,definite_article,az autót,easy,pronoun,Én,train_pronoun_001,train
+Kevés hibát gyakran [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_011,train
+Ezt a feladatot [VERB].,definite,demonstrative,ezt a feladatot,easy,none,,train_none_008,train
+Vacsorát Péter [VERB].,indefinite,bare_noun,vacsorát,easy,noun,Péter,train_noun_034,train
+[VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_000,train
+Gyakran [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,none,,train_none_003,train
+Tegnap [VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_002,train
+Néhány levelet ma [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_009,train
+Magukat [VERB].,definite,third_person_pronoun,magukat,tricky,none,,train_none_008,train
+Anna nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,noun,Anna,train_noun_012,train
+Bármit ma a gyerek [VERB].,indefinite,indefinite_pronoun,bármit,easy,noun,A gyerek,train_noun_017,train
+Mi [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,pronoun,Mi,train_pronoun_006,train
+Ma [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_001,train
+A diákok gyakran [VERB] előadást.,indefinite,bare_noun,előadást,easy,noun,A diákok,train_noun_050,train
+A szomszéd [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,A szomszéd,train_noun_018,train
+Egyvalakit tegnap [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_010,train
+Egy autót [VERB].,indefinite,indefinite_article,egy autót,easy,none,,train_none_008,train
+Almát ma a szomszéd [VERB].,indefinite,bare_noun,almát,easy,noun,A szomszéd,train_noun_023,train
+A legtöbbet gyakran [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_011,train
+Te ma [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,pronoun,Te,train_pronoun_004,train
+Mindenkit [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_008,train
+Ma [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,train_none_001,train
+Anna ma [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,Anna,train_noun_025,train
+A szomszéd ma [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,A szomszéd,train_noun_019,train
+Ma [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_001,train
+Otthon [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_004,train
+Reggel [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_005,train
+Most [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_007,train
+Ma [VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_001,train
+Ma [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_001,train
+A tanár gyakran [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,A tanár,train_noun_002,train
+A szomszéd az iskolában [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,noun,A szomszéd,train_noun_021,train
+Katalin gyakran [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,noun,Katalin,train_noun_038,train
+Te [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,pronoun,Te,train_pronoun_003,train
+Este [VERB] őket.,definite,third_person_pronoun,őket,easy,none,,train_none_006,train
+Mindkettőt ma [VERB].,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_009,train
+Esztert [VERB].,definite,proper_noun,Esztert,easy,none,,train_none_008,train
+Mindenkit ma a szülők [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,A szülők,train_noun_059,train
+Este [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,none,,train_none_006,train
+Péter ma [VERB] Annát.,definite,proper_noun,Annát,easy,noun,Péter,train_noun_031,train
+Most [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_007,train
+Tegnap [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_002,train
+Reggel [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,none,,train_none_005,train
+Vacsorát ma [VERB].,indefinite,bare_noun,vacsorát,easy,none,,train_none_009,train
+Gyakran [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_003,train
+Az utolsó kérdést gyakran [VERB].,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_011,train
+Reggel [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_005,train
+Az összeset [VERB].,definite,definite_quantifier,az összeset,tricky,none,,train_none_008,train
+Anna [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,Anna,train_noun_024,train
+Este [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,train_none_006,train
+Mindkettőt a szülők [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A szülők,train_noun_058,train
+Senkit nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,train_none_003,train
+Tegnap [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_002,train
+Mindet ma [VERB].,definite,definite_quantifier,mindet,tricky,none,,train_none_009,train
+Tegnap [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_002,train
+Péter gyakran [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,Péter,train_noun_032,train
+A diákok [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A diákok,train_noun_048,train
+Soha nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,none,,train_none_002,train
+Most [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_007,train
+A tanár [VERB] filmet.,indefinite,bare_noun,filmet,easy,noun,A tanár,train_noun_000,train
+A diák az iskolában [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A diák,train_noun_009,train
+A diákok az iskolában [VERB] magát.,definite,third_person_pronoun,magát,tricky,noun,A diákok,train_noun_051,train
+Te nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,train_pronoun_003,train
+Semmifélét nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,none,,train_none_003,train
+Akármit ők [VERB].,indefinite,indefinite_pronoun,akármit,tricky,pronoun,Ők,train_pronoun_011,train
+Otthon [VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,train_none_004,train
+Most [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_007,train
+Néhány könyvet ma [VERB].,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_009,train
+A diákok [VERB] Gábort.,definite,proper_noun,Gábort,easy,noun,A diákok,train_noun_048,train
+Most [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_007,train
+Este [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_006,train
+A gyerek az iskolában [VERB] magát.,definite,third_person_pronoun,magát,tricky,noun,A gyerek,train_noun_015,train
+Gyakran [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_003,train
+Péter ma [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,noun,Péter,train_noun_031,train
+A tanár nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,noun,A tanár,train_noun_000,train
+Reggel [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_005,train
+Gyakran [VERB] őket.,definite,third_person_pronoun,őket,easy,none,,train_none_003,train
+Gyakran [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,train_none_003,train
+Ma nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,train_none_001,train
+Nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,train_none_000,train
+Mindet [VERB].,definite,definite_quantifier,mindet,tricky,none,,train_none_008,train
+Este [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_006,train
+Gábor gyakran [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,noun,Gábor,train_noun_044,train
+A gyerek az iskolában [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,noun,A gyerek,train_noun_015,train
+Te ma [VERB] mindet.,definite,definite_quantifier,mindet,tricky,pronoun,Te,train_pronoun_004,train
+Ma [VERB] őt.,definite,third_person_pronoun,őt,easy,none,,train_none_001,train
+Este [VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,train_none_006,train
+Mi [VERB] őt.,definite,third_person_pronoun,őt,easy,pronoun,Mi,train_pronoun_006,train
+Ma [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,none,,train_none_001,train
+Gábor az iskolában [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,Gábor,train_noun_045,train
+Ma [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_001,train
+Ezt a feladatot én [VERB].,definite,demonstrative,ezt a feladatot,easy,pronoun,Én,train_pronoun_002,train
+A szomszéd ma [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,A szomszéd,train_noun_019,train
+Pár kérdést gyakran [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_011,train
+Egy előadást [VERB].,indefinite,indefinite_article,egy előadást,easy,none,,train_none_008,train
+Az összeset ma [VERB].,definite,definite_quantifier,az összeset,tricky,none,,train_none_009,train
+A piros labdát ma [VERB].,definite,modified_definite_np,a piros labdát,easy,none,,train_none_009,train
+Valamennyit ma a gyerek [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,A gyerek,train_noun_017,train
+Ezt ma a szülők [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,A szülők,train_noun_059,train
+Ma [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_001,train
+[VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_000,train
+Ezt Katalin [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,Katalin,train_noun_040,train
+Ők nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Ők,train_pronoun_009,train
+Ma [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,train_none_001,train
+Tegnap [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_002,train
+Otthon [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_004,train
+Mindegyiket mi [VERB].,definite,definite_quantifier,mindegyiket,tricky,pronoun,Mi,train_pronoun_008,train
+Őket [VERB].,definite,third_person_pronoun,őket,easy,none,,train_none_008,train
+Mindent ma [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,train_none_009,train
+Néhányat a szülők [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,noun,A szülők,train_noun_058,train
+Az autót Anna [VERB].,definite,definite_article,az autót,easy,noun,Anna,train_noun_028,train
+Egy levelet ma [VERB].,indefinite,indefinite_article,egy levelet,easy,none,,train_none_009,train
+A gyerek gyakran [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,noun,A gyerek,train_noun_014,train
+Gábor ma [VERB] Gábort.,definite,proper_noun,Gábort,easy,noun,Gábor,train_noun_043,train
+A szülők gyakran [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,A szülők,train_noun_056,train
+Reggel [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_005,train
+Este [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_006,train
+Este [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_006,train
+A diák az iskolában [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A diák,train_noun_009,train
+Filmet tegnap [VERB].,indefinite,bare_noun,filmet,easy,none,,train_none_010,train
+A többit ma a szülők [VERB].,definite,definite_quantifier,a többit,tricky,noun,A szülők,train_noun_059,train
+Este [VERB] Annát.,definite,proper_noun,Annát,easy,none,,train_none_006,train
+Könyvet gyakran [VERB].,indefinite,bare_noun,könyvet,easy,none,,train_none_011,train
+Most [VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_007,train
+[VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_000,train
+Akárkit ma [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_009,train
+Emezt ma Anna [VERB].,definite,demonstrative_pronoun,emezt,tricky,noun,Anna,train_noun_029,train
+Tegnap [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,train_none_002,train
+Most [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_007,train
+Az egészet tegnap [VERB].,definite,definite_quantifier,az egészet,tricky,none,,train_none_010,train
+Ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,train_none_001,train
+Az almát ma [VERB].,definite,definite_article,az almát,easy,none,,train_none_009,train
+Reggel [VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,train_none_005,train
+A tanár [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A tanár,train_noun_000,train
+Egy vacsorát [VERB].,indefinite,indefinite_article,egy vacsorát,easy,none,,train_none_008,train
+Ma [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_001,train
+Gyakran [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,none,,train_none_003,train
+Ők [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,pronoun,Ők,train_pronoun_009,train
+Otthon [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_004,train
+Anna ma [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,Anna,train_noun_025,train
+Most [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_007,train
+Tegnap [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_002,train
+Mi ma [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,pronoun,Mi,train_pronoun_007,train
+Amazt a gyerek [VERB].,definite,demonstrative_pronoun,amazt,tricky,noun,A gyerek,train_noun_016,train
+A többit [VERB].,definite,definite_quantifier,a többit,tricky,none,,train_none_008,train
+Lászlót tegnap [VERB].,definite,proper_noun,Lászlót,easy,none,,train_none_010,train
+Újságot ma Katalin [VERB].,indefinite,bare_noun,újságot,easy,noun,Katalin,train_noun_041,train
+A filmet [VERB].,definite,definite_article,a filmet,easy,none,,train_none_008,train
+Pétert [VERB].,definite,proper_noun,Pétert,easy,none,,train_none_008,train
+Gábor ma nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,noun,Gábor,train_noun_022,train
+A tanár gyakran [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,A tanár,train_noun_002,train
+A szomszéd gyakran [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,A szomszéd,train_noun_020,train
+[VERB] a levelet.,definite,definite_article,a levelet,easy,none,,train_none_000,train
+Néhány levelet [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_008,train
+Soha nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,train_none_002,train
+Este [VERB] a filmet.,definite,definite_article,a filmet,easy,none,,train_none_006,train
+Lászlót [VERB].,definite,proper_noun,Lászlót,easy,none,,train_none_008,train
+Gyakran [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_003,train
+A filmet ma [VERB].,definite,definite_article,a filmet,easy,none,,train_none_009,train
+Néhány levelet gyakran [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_011,train
+[VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_000,train
+A szomszéd gyakran [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A szomszéd,train_noun_020,train
+[VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_000,train
+Otthon [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,train_none_004,train
+Gyakran [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,train_none_003,train
+Tegnap [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_002,train
+A szülők gyakran [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,noun,A szülők,train_noun_056,train
+Otthon [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,train_none_004,train
+Gyakran [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_003,train
+Ma [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_001,train
+Reggel [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_005,train
+Őt tegnap [VERB].,definite,third_person_pronoun,őt,easy,none,,train_none_010,train
+Otthon [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_004,train
+Egy könyvet [VERB].,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_008,train
+Az egészet gyakran [VERB].,definite,definite_quantifier,az egészet,tricky,none,,train_none_011,train
+Néhány levelet a szülők [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,A szülők,train_noun_058,train
+Egy levelet ma Péter [VERB].,indefinite,indefinite_article,egy levelet,easy,noun,Péter,train_noun_035,train
+[VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_000,train
+Otthon [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,train_none_004,train
+Katalint gyakran [VERB].,definite,proper_noun,Katalint,easy,none,,train_none_011,train
+Minden egyes dolgot én [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,pronoun,Én,train_pronoun_002,train
+Minden egyes dolgot gyakran [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_011,train
+A tanár [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,noun,A tanár,train_noun_000,train
+Annát [VERB].,definite,proper_noun,Annát,easy,none,,train_none_008,train
+Este [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_006,train
+Gyakran [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,train_none_003,train
+A többit ma a tanár [VERB].,definite,definite_quantifier,a többit,tricky,noun,A tanár,train_noun_005,train
+Nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,none,,train_none_000,train
+Az egészet [VERB].,definite,definite_quantifier,az egészet,tricky,none,,train_none_008,train
+Reggel [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,none,,train_none_005,train
+A gyerek [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,noun,A gyerek,train_noun_012,train
+Péter nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,noun,Péter,train_noun_015,train
+A tanár gyakran [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,noun,A tanár,train_noun_002,train
+Gyakran [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_003,train
+Gyakran [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_003,train
+Sok filmet ők [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,pronoun,Ők,train_pronoun_011,train
+A tanár gyakran [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,noun,A tanár,train_noun_002,train
+Az új telefont tegnap [VERB].,definite,modified_definite_np,az új telefont,easy,none,,train_none_010,train
+Ma [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_001,train
+Gyakran [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_003,train
+Akárkit én [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,pronoun,Én,train_pronoun_002,train
+[VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_000,train
+A diákok [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,A diákok,train_noun_048,train
+Reggel [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_005,train
+Este [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_006,train
+Egy filmet [VERB].,indefinite,indefinite_article,egy filmet,easy,none,,train_none_008,train
+Én ma [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,pronoun,Én,train_pronoun_001,train
+A többit ma [VERB].,definite,definite_quantifier,a többit,tricky,none,,train_none_009,train
+Anna gyakran [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,noun,Anna,train_noun_026,train
+Katalin az iskolában [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,noun,Katalin,train_noun_039,train
+Előadást [VERB].,indefinite,bare_noun,előadást,easy,none,,train_none_008,train
+Ők [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,pronoun,Ők,train_pronoun_009,train
+Ők [VERB] Pétert.,definite,proper_noun,Pétert,easy,pronoun,Ők,train_pronoun_009,train
+A szülők az iskolában [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,noun,A szülők,train_noun_057,train
+Ők [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,pronoun,Ők,train_pronoun_009,train
+Azt a filmet [VERB].,definite,demonstrative,azt a filmet,easy,none,,train_none_008,train
+Tegnap [VERB] őket.,definite,third_person_pronoun,őket,easy,none,,train_none_002,train
+Katalin [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,noun,Katalin,train_noun_036,train
+Katalin gyakran [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,noun,Katalin,train_noun_038,train
+Ma [VERB] az autót.,definite,definite_article,az autót,easy,none,,train_none_001,train
+Tegnap [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_002,train
+Gábor ma [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,noun,Gábor,train_noun_043,train
+Egy levelet tegnap [VERB].,indefinite,indefinite_article,egy levelet,easy,none,,train_none_010,train
+Katalint ma a diák [VERB].,definite,proper_noun,Katalint,easy,noun,A diák,train_noun_011,train
+Este [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_006,train
+Most [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_007,train
+Gyakran [VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,none,,train_none_003,train
+Tegnap [VERB] az autót.,definite,definite_article,az autót,easy,none,,train_none_002,train
+Gábor az iskolában [VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,noun,Gábor,train_noun_045,train
+Semmifélét a diák nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,A diák,train_noun_005,train
+Magát ma Katalin [VERB].,definite,third_person_pronoun,magát,tricky,noun,Katalin,train_noun_041,train
+Otthon [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_004,train
+Pétert ma [VERB].,definite,proper_noun,Pétert,easy,none,,train_none_009,train
+A gyerek [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,noun,A gyerek,train_noun_012,train
+Ma [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_001,train
+Gyakran [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_003,train
+Otthon [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_004,train
+Katalin ma [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,Katalin,train_noun_037,train
+Ma [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_001,train
+Mindenkit ma Katalin [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,Katalin,train_noun_041,train
+A szülők az iskolában [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,noun,A szülők,train_noun_057,train
+Tegnap [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_002,train
+Mindet mi [VERB].,definite,definite_quantifier,mindet,tricky,pronoun,Mi,train_pronoun_008,train
+Reggel [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_005,train
+[VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_000,train
+A diákok gyakran [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,noun,A diákok,train_noun_050,train
+Péter gyakran [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,Péter,train_noun_032,train
+Gyakran [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_003,train
+Reggel [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_005,train
+Otthon [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_004,train
+Egy dolgot sem ma nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,train_none_004,train
+Tegnap [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_002,train
+Mindenfélét ma Anna [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,Anna,train_noun_029,train
+Bárkit tegnap [VERB].,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_010,train
+Almát gyakran [VERB].,indefinite,bare_noun,almát,easy,none,,train_none_011,train
+Mindenfélét ma [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_009,train
+A szülők gyakran [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A szülők,train_noun_056,train
+Azt a filmet ma a szomszéd [VERB].,definite,demonstrative,azt a filmet,easy,noun,A szomszéd,train_noun_023,train
+Néhányat ma [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_009,train
+Semmit ma nem [VERB].,indefinite,negative_pronoun,semmit,tricky,none,,train_none_004,train
+Este [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_006,train
+Otthon [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_004,train
+Tegnap [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_002,train
+Reggel [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_005,train
+Mi [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,pronoun,Mi,train_pronoun_006,train
+Ők ma [VERB] magát.,definite,third_person_pronoun,magát,tricky,pronoun,Ők,train_pronoun_010,train
+A diák ma [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,noun,A diák,train_noun_007,train
+Ma [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,none,,train_none_001,train
+Gyakran [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_003,train
+Valamennyit a szomszéd [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,A szomszéd,train_noun_022,train
+Mindenkit tegnap [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_010,train
+[VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_000,train
+Én ma [VERB] levelet.,indefinite,bare_noun,levelet,easy,pronoun,Én,train_pronoun_001,train
+Gyakran [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,train_none_003,train
+A tanár ma nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,noun,A tanár,train_noun_001,train
+Emezt [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_008,train
+Valamit ma [VERB].,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_009,train
+A legtöbbet [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_008,train
+Tegnap [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_002,train
+Néhányat tegnap [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_010,train
+Most [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_007,train
+Gyakran [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_003,train
+Gyakran [VERB] az előadást.,definite,definite_article,az előadást,easy,none,,train_none_003,train
+Ma [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_001,train
+A diák ma [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,A diák,train_noun_007,train
+A szülők gyakran [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,A szülők,train_noun_056,train
+Néhány könyvet [VERB].,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_008,train
+Este [VERB] kevés hibát.,indefinite,quantified_indefinite_np,kevés hibát,medium,none,,train_none_006,train
+Otthon [VERB] őt.,definite,third_person_pronoun,őt,easy,none,,train_none_004,train
+Ma [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_001,train
+Én ma [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,pronoun,Én,train_pronoun_001,train
+Mindent ma Anna [VERB].,indefinite,universal_pronoun,mindent,tricky,noun,Anna,train_noun_029,train
+A gyerek gyakran [VERB] magát.,definite,third_person_pronoun,magát,tricky,noun,A gyerek,train_noun_014,train
+Az új telefont ma [VERB].,definite,modified_definite_np,az új telefont,easy,none,,train_none_009,train
+Este [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_006,train
+Este [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_006,train
+Tegnap [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_002,train
+Reggel [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_005,train
+A diák ma [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,A diák,train_noun_007,train
+[VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,none,,train_none_000,train
+[VERB] autót.,indefinite,bare_noun,autót,easy,none,,train_none_000,train
+[VERB] Gábort.,definite,proper_noun,Gábort,easy,none,,train_none_000,train
+Mindkettőt [VERB].,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_008,train
+Ma [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_001,train
+Valamit ők [VERB].,indefinite,indefinite_pronoun,valamit,easy,pronoun,Ők,train_pronoun_011,train
+Magát ma a szülők [VERB].,definite,third_person_pronoun,magát,tricky,noun,A szülők,train_noun_059,train
+Reggel [VERB] a levelet.,definite,definite_article,a levelet,easy,none,,train_none_005,train
+Most [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_007,train
+Most [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,train_none_007,train
+Ma [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_001,train
+Este [VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_006,train
+Otthon [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,train_none_004,train
+Mindet ma a diákok [VERB].,definite,definite_quantifier,mindet,tricky,noun,A diákok,train_noun_053,train
+Most [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,train_none_007,train
+Mindenkit ma [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_009,train
+Katalin ma [VERB] levelet.,indefinite,bare_noun,levelet,easy,noun,Katalin,train_noun_037,train
+Mindkettőt ma Katalin [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,Katalin,train_noun_041,train
+Én [VERB] újságot.,indefinite,bare_noun,újságot,easy,pronoun,Én,train_pronoun_000,train
+A vacsorát tegnap [VERB].,definite,definite_article,a vacsorát,easy,none,,train_none_010,train
+Mi nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Mi,train_pronoun_006,train
+Egy könyvet ma a diák [VERB].,indefinite,indefinite_article,egy könyvet,easy,noun,A diák,train_noun_011,train
+Reggel [VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_005,train
+Mindegyiket ma a gyerek [VERB].,definite,definite_quantifier,mindegyiket,tricky,noun,A gyerek,train_noun_017,train
+Gyakran [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_003,train
+Most [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_007,train
+A szülők gyakran [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,noun,A szülők,train_noun_056,train
+Az almát [VERB].,definite,definite_article,az almát,easy,none,,train_none_008,train
+Ők ma [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,pronoun,Ők,train_pronoun_010,train
+Őt ma [VERB].,definite,third_person_pronoun,őt,easy,none,,train_none_009,train
+Este [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_006,train
+Otthon [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_004,train
+Otthon [VERB] egy könyvet.,indefinite,indefinite_article,egy könyvet,easy,none,,train_none_004,train
+Ezt a feladatot tegnap [VERB].,definite,demonstrative,ezt a feladatot,easy,none,,train_none_010,train
+Ma [VERB] Gábort.,definite,proper_noun,Gábort,easy,none,,train_none_001,train
+Most [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_007,train
+[VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_000,train
+Otthon [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_004,train
+Egy embert sem a diák nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,noun,A diák,train_noun_005,train
+Pár kérdést tegnap [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_010,train
+Otthon [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_004,train
+Magát gyakran [VERB].,definite,third_person_pronoun,magát,tricky,none,,train_none_011,train
+Reggel [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_005,train
+Filmet te [VERB].,indefinite,bare_noun,filmet,easy,pronoun,Te,train_pronoun_005,train
+Ők ma [VERB] a többit.,definite,definite_quantifier,a többit,tricky,pronoun,Ők,train_pronoun_010,train
+Egy autót ma Gábor [VERB].,indefinite,indefinite_article,egy autót,easy,noun,Gábor,train_noun_047,train
+[VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_000,train
+Otthon [VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_004,train
+Katalin ma [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,Katalin,train_noun_037,train
+Reggel [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,train_none_005,train
+A gyerek ma [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A gyerek,train_noun_013,train
+Gyakran [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,train_none_003,train
+Gyakran [VERB] az autót.,definite,definite_article,az autót,easy,none,,train_none_003,train
+Reggel [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_005,train
+A diákok gyakran [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,A diákok,train_noun_050,train
+Akármit Péter [VERB].,indefinite,indefinite_pronoun,akármit,tricky,noun,Péter,train_noun_034,train
+Az utolsó kérdést ma [VERB].,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_009,train
+Mindenkit ma Anna [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,Anna,train_noun_029,train
+[VERB] a vacsorát.,definite,definite_article,a vacsorát,easy,none,,train_none_000,train
+[VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_000,train
+Tegnap [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_002,train
+Magát tegnap [VERB].,definite,third_person_pronoun,magát,tricky,none,,train_none_010,train
+Gábort ma [VERB].,definite,proper_noun,Gábort,easy,none,,train_none_009,train
+Anna az iskolában [VERB] előadást.,indefinite,bare_noun,előadást,easy,noun,Anna,train_noun_027,train
+Gyakran [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_003,train
+Este [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_006,train
+Gyakran [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_003,train
+Senkit ma nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,train_none_004,train
+Most [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,train_none_007,train
+Mindegyiket tegnap [VERB].,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_010,train
+A gyerek [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,noun,A gyerek,train_noun_012,train
+Lászlót gyakran [VERB].,definite,proper_noun,Lászlót,easy,none,,train_none_011,train
+Valamennyit ma Anna [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,Anna,train_noun_029,train
+Otthon [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_004,train
+Péter az iskolában [VERB] őt.,definite,third_person_pronoun,őt,easy,noun,Péter,train_noun_033,train
+Ezt tegnap [VERB].,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_010,train
+Semmifélét a szülők nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,A szülők,train_noun_029,train
+Ma [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,train_none_001,train
+Azt az üzenetet tegnap [VERB].,definite,demonstrative,azt az üzenetet,easy,none,,train_none_010,train
+[VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_000,train
+Gyakran [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_003,train
+Most [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,train_none_007,train
+A diák az iskolában [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,noun,A diák,train_noun_009,train
+Néhányat ma Gábor [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,noun,Gábor,train_noun_047,train
+Most [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,train_none_007,train
+[VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_000,train
+Anna [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,Anna,train_noun_024,train
+Azt a levelet Anna [VERB].,definite,demonstrative,azt a levelet,easy,noun,Anna,train_noun_028,train
+Egy almát gyakran [VERB].,indefinite,indefinite_article,egy almát,easy,none,,train_none_011,train
+Este [VERB] az almát.,definite,definite_article,az almát,easy,none,,train_none_006,train
+Almát [VERB].,indefinite,bare_noun,almát,easy,none,,train_none_008,train
+[VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_000,train
+Az előadást [VERB].,definite,definite_article,az előadást,easy,none,,train_none_008,train
+Otthon [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_004,train
+A diák az iskolában [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A diák,train_noun_009,train
+Mindenfélét [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_008,train
+Reggel [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_005,train
+A diákok az iskolában [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,noun,A diákok,train_noun_051,train
+Reggel [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_005,train
+A szülők gyakran [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A szülők,train_noun_056,train
+Este [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_006,train
+Most [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,train_none_007,train
+A filmet gyakran [VERB].,definite,definite_article,a filmet,easy,none,,train_none_011,train
+Akármit tegnap [VERB].,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_010,train
+Otthon [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_004,train
+Az újságot gyakran [VERB].,definite,definite_article,az újságot,easy,none,,train_none_011,train
+Semmit nem [VERB].,indefinite,negative_pronoun,semmit,tricky,none,,train_none_003,train
+Ma [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_001,train
+Péter az iskolában [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,Péter,train_noun_033,train
+Reggel [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_005,train
+Ma [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_001,train
+Valamit gyakran [VERB].,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_011,train
+Anna ma [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,noun,Anna,train_noun_025,train
+Most [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_007,train
+Katalin ma nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,noun,Katalin,train_noun_019,train
+Újságot ma a diákok [VERB].,indefinite,bare_noun,újságot,easy,noun,A diákok,train_noun_053,train
+Ma [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_001,train
+Akármit ma [VERB].,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_009,train
+Gyakran [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_003,train
+Tegnap [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_002,train
+Mindegyiket ma [VERB].,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_009,train
+A gyerek [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,A gyerek,train_noun_012,train
+Este [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_006,train
+Este [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_006,train
+Ma [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_001,train
+Reggel [VERB] újságot.,indefinite,bare_noun,újságot,easy,none,,train_none_005,train
+Ma [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_001,train
+Tegnap [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_002,train
+A szülők ma [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,A szülők,train_noun_055,train
+Reggel [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,train_none_005,train
+Most [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_007,train
+Akármit [VERB].,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_008,train
+A gyerek [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,A gyerek,train_noun_012,train
+Valamit [VERB].,indefinite,indefinite_pronoun,valamit,easy,none,,train_none_008,train
+Este [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,train_none_006,train
+Valamennyit ma [VERB].,definite,definite_quantifier,valamennyit,tricky,none,,train_none_009,train
+Otthon [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,train_none_004,train
+A diák az iskolában [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,noun,A diák,train_noun_009,train
+Ezt a könyvet ma a diákok [VERB].,definite,demonstrative,ezt a könyvet,easy,noun,A diákok,train_noun_053,train
+[VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_000,train
+Őt Péter [VERB].,definite,third_person_pronoun,őt,easy,noun,Péter,train_noun_034,train
+Bármit ma [VERB].,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_009,train
+Ma [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_001,train
+Otthon [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_004,train
+Este [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_006,train
+Gyakran [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_003,train
+Sok filmet te [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,pronoun,Te,train_pronoun_005,train
+[VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_000,train
+Otthon [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,train_none_004,train
+Tegnap [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,train_none_002,train
+Most [VERB] Gábort.,definite,proper_noun,Gábort,easy,none,,train_none_007,train
+A többit tegnap [VERB].,definite,definite_quantifier,a többit,tricky,none,,train_none_010,train
+Reggel [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_005,train
+A gyerek gyakran [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,A gyerek,train_noun_014,train
+Egy előadást gyakran [VERB].,indefinite,indefinite_article,egy előadást,easy,none,,train_none_011,train
+A tanár ma [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,noun,A tanár,train_noun_001,train
+Ma nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,none,,train_none_001,train
+Akármit ma a diákok [VERB].,indefinite,indefinite_pronoun,akármit,tricky,noun,A diákok,train_noun_053,train
+Este [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_006,train
+Te ma [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,pronoun,Te,train_pronoun_004,train
+[VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_000,train
+Anna az iskolában [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,noun,Anna,train_noun_027,train
+Reggel [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_005,train
+Te ma [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,pronoun,Te,train_pronoun_004,train
+Egy embert sem ma nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,none,,train_none_004,train
+Gyakran [VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_003,train
+A többit gyakran [VERB].,definite,definite_quantifier,a többit,tricky,none,,train_none_011,train
+Tegnap [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_002,train
+Én [VERB] mindet.,definite,definite_quantifier,mindet,tricky,pronoun,Én,train_pronoun_000,train
+Mindegyiket a diák [VERB].,definite,definite_quantifier,mindegyiket,tricky,noun,A diák,train_noun_010,train
+Tegnap [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,train_none_002,train
+Gyakran [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_003,train
+Most [VERB] az előadást.,definite,definite_article,az előadást,easy,none,,train_none_007,train
+Otthon [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,train_none_004,train
+Gábor az iskolában [VERB] újságot.,indefinite,bare_noun,újságot,easy,noun,Gábor,train_noun_045,train
+[VERB] őket.,definite,third_person_pronoun,őket,easy,none,,train_none_000,train
+Előadást a szomszéd [VERB].,indefinite,bare_noun,előadást,easy,noun,A szomszéd,train_noun_022,train
+Most [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_007,train
+Most [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,train_none_007,train
+Este [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_006,train
+A legtöbbet én [VERB].,definite,definite_quantifier,a legtöbbet,tricky,pronoun,Én,train_pronoun_002,train
+Este [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,none,,train_none_006,train
+[VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,train_none_000,train
+[VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,train_none_000,train
+[VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,train_none_000,train
+A gyerek gyakran [VERB] az előadást.,definite,definite_article,az előadást,easy,noun,A gyerek,train_noun_014,train
+Azt Gábor [VERB].,definite,demonstrative_pronoun,azt,tricky,noun,Gábor,train_noun_046,train
+Otthon [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,train_none_004,train
+Péter ma [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,noun,Péter,train_noun_031,train
+Ma [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,train_none_001,train
+Katalin ma [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,noun,Katalin,train_noun_037,train
+Ma [VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_001,train
+Ma nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,none,,train_none_001,train
+Akárkit te [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,pronoun,Te,train_pronoun_005,train
+Újságot tegnap [VERB].,indefinite,bare_noun,újságot,easy,none,,train_none_010,train
+Pár kérdést ma a diákok [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,noun,A diákok,train_noun_053,train
+Akármit ma a szomszéd [VERB].,indefinite,indefinite_pronoun,akármit,tricky,noun,A szomszéd,train_noun_023,train
+[VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,train_none_000,train
+Reggel [VERB] az almát.,definite,definite_article,az almát,easy,none,,train_none_005,train
+Katalin gyakran [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,Katalin,train_noun_038,train
+Katalin az iskolában [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,noun,Katalin,train_noun_039,train
+Tegnap [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_002,train
+Amazt tegnap [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,train_none_010,train
+Kevés hibát mi [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,pronoun,Mi,train_pronoun_008,train
+Én ma [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,pronoun,Én,train_pronoun_001,train
+Azt gyakran [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,train_none_011,train
+Este [VERB] újságot.,indefinite,bare_noun,újságot,easy,none,,train_none_006,train
+A gyerek gyakran [VERB] Esztert.,definite,proper_noun,Esztert,easy,noun,A gyerek,train_noun_014,train
+Gábor az iskolában [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,Gábor,train_noun_045,train
+Több almát mi [VERB].,indefinite,quantified_indefinite_np,több almát,medium,pronoun,Mi,train_pronoun_008,train
+Mindenkit Anna [VERB].,indefinite,universal_pronoun,mindenkit,tricky,noun,Anna,train_noun_028,train
+Este [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,train_none_006,train
+Ma [VERB] egy filmet.,indefinite,indefinite_article,egy filmet,easy,none,,train_none_001,train
+Mindegyiket a gyerek [VERB].,definite,definite_quantifier,mindegyiket,tricky,noun,A gyerek,train_noun_016,train
+Tegnap [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,none,,train_none_002,train
+Tegnap [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,train_none_002,train
+Tegnap [VERB] újságot.,indefinite,bare_noun,újságot,easy,none,,train_none_002,train
+Tegnap [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,train_none_002,train
+Magukat ők [VERB].,definite,third_person_pronoun,magukat,tricky,pronoun,Ők,train_pronoun_011,train
+Ők [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,pronoun,Ők,train_pronoun_009,train
+Esztert tegnap [VERB].,definite,proper_noun,Esztert,easy,none,,train_none_010,train
+Te ma [VERB] Esztert.,definite,proper_noun,Esztert,easy,pronoun,Te,train_pronoun_004,train
+Ma [VERB] sok filmet.,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_001,train
+Reggel [VERB] almát.,indefinite,bare_noun,almát,easy,none,,train_none_005,train
+Mindkettőt a tanár [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A tanár,train_noun_004,train
+Mi [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,pronoun,Mi,train_pronoun_006,train
+Tegnap [VERB] ezt az almát.,definite,demonstrative,ezt az almát,easy,none,,train_none_002,train
+Most [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,none,,train_none_007,train
+Újságot ma a szomszéd [VERB].,indefinite,bare_noun,újságot,easy,noun,A szomszéd,train_noun_023,train
+Azt az üzenetet a diák [VERB].,definite,demonstrative,azt az üzenetet,easy,noun,A diák,train_noun_010,train
+Reggel [VERB] a filmet.,definite,definite_article,a filmet,easy,none,,train_none_005,train
+Mindkettőt mi [VERB].,definite,definite_quantifier,mindkettőt,tricky,pronoun,Mi,train_pronoun_008,train
+Ma [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_001,train
+A régi házat [VERB].,definite,modified_definite_np,a régi házat,easy,none,,train_none_008,train
+Otthon [VERB] Pétert.,definite,proper_noun,Pétert,easy,none,,train_none_004,train
+A régi házat a gyerek [VERB].,definite,modified_definite_np,a régi házat,easy,noun,A gyerek,train_noun_016,train
+A tanár ma [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,noun,A tanár,train_noun_001,train
+A szülők az iskolában [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A szülők,train_noun_057,train
+[VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,train_none_000,train
+Tegnap [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_002,train
+Magát ma [VERB].,definite,third_person_pronoun,magát,tricky,none,,train_none_009,train
+Ma [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_001,train
+Reggel [VERB] néhány könyvet.,indefinite,quantified_indefinite_np,néhány könyvet,medium,none,,train_none_005,train
+A diák ma [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,noun,A diák,train_noun_007,train
+Akármit gyakran [VERB].,indefinite,indefinite_pronoun,akármit,tricky,none,,train_none_011,train
+Én [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,pronoun,Én,train_pronoun_000,train
+Reggel [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,train_none_005,train
+Reggel [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,train_none_005,train
+Soha nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,train_none_002,train
+Otthon [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,train_none_004,train
+A legtöbbet ma [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_009,train
+A levelet ma [VERB].,definite,definite_article,a levelet,easy,none,,train_none_009,train
+Most [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,train_none_007,train
+Akárkit Anna [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,noun,Anna,train_noun_028,train
+Mindent tegnap [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,train_none_010,train
+Gábor az iskolában [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,noun,Gábor,train_noun_045,train
+Most [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,train_none_007,train
+A szomszéd [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,noun,A szomszéd,train_noun_018,train
+Tegnap [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,train_none_002,train
+Reggel [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,none,,train_none_005,train
+Tegnap [VERB] Gábort.,definite,proper_noun,Gábort,easy,none,,train_none_002,train
+Gábor gyakran [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,Gábor,train_noun_044,train
+Te ma [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,pronoun,Te,train_pronoun_004,train
+Sok filmet tegnap [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,none,,train_none_010,train
+Most [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,train_none_007,train
+Ma [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_001,train
+Katalin [VERB] bárkit.,indefinite,indefinite_pronoun,bárkit,easy,noun,Katalin,train_noun_036,train
+Ma [VERB] egy előadást.,indefinite,indefinite_article,egy előadást,easy,none,,train_none_001,train
+A gyerek [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,A gyerek,train_noun_012,train
+Előadást ma [VERB].,indefinite,bare_noun,előadást,easy,none,,train_none_009,train
+A szomszéd [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,noun,A szomszéd,train_noun_018,train
+Ezt ma [VERB].,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_009,train
+A szomszéd gyakran [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,noun,A szomszéd,train_noun_020,train
+A szomszéd [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,noun,A szomszéd,train_noun_018,train
+Katalin [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,noun,Katalin,train_noun_036,train
+Filmet ma a szülők [VERB].,indefinite,bare_noun,filmet,easy,noun,A szülők,train_noun_059,train
+Valamennyit Gábor [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,Gábor,train_noun_046,train
+Valakit [VERB].,indefinite,indefinite_pronoun,valakit,easy,none,,train_none_008,train
+Azt ma [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,train_none_009,train
+Otthon [VERB] Lászlót.,definite,proper_noun,Lászlót,easy,none,,train_none_004,train
+Gyakran [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,train_none_003,train
+[VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,train_none_000,train
+Reggel [VERB] bármit.,indefinite,indefinite_pronoun,bármit,easy,none,,train_none_005,train
+Este [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,train_none_006,train
+Otthon [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,train_none_004,train
+Gábor [VERB] a többit.,definite,definite_quantifier,a többit,tricky,noun,Gábor,train_noun_042,train
+[VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,none,,train_none_000,train
+Mindenfélét tegnap [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,train_none_010,train
+Tegnap [VERB] az előadást.,definite,definite_article,az előadást,easy,none,,train_none_002,train
+Reggel [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,train_none_005,train
+Több almát én [VERB].,indefinite,quantified_indefinite_np,több almát,medium,pronoun,Én,train_pronoun_002,train
+Néhány könyvet ma a diák [VERB].,indefinite,quantified_indefinite_np,néhány könyvet,medium,noun,A diák,train_noun_011,train
+Reggel [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,train_none_005,train
+Mindkettőt a szomszéd [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A szomszéd,train_noun_022,train
+Az összeset gyakran [VERB].,definite,definite_quantifier,az összeset,tricky,none,,train_none_011,train
+Én ma [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,pronoun,Én,train_pronoun_001,train
+A gyerek ma [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,noun,A gyerek,train_noun_013,train
+Most [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,train_none_007,train
+Könyvet Anna [VERB].,indefinite,bare_noun,könyvet,easy,noun,Anna,train_noun_028,train
+Este [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,train_none_006,train
+Az új telefont ma Katalin [VERB].,definite,modified_definite_np,az új telefont,easy,noun,Katalin,train_noun_041,train
+Ma [VERB] levelet.,indefinite,bare_noun,levelet,easy,none,,train_none_001,train
+Otthon [VERB] újságot.,indefinite,bare_noun,újságot,easy,none,,train_none_004,train
+Valamennyit Anna [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,Anna,train_noun_028,train
+Az összeset délután Péter [VERB].,definite,definite_quantifier,az összeset,tricky,noun,Péter,validation_noun_011,validation
+Ezt délután a tanár [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,A tanár,validation_noun_001,validation
+Péter délután [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,noun,Péter,validation_noun_010,validation
+A többit délután a diákok [VERB].,definite,definite_quantifier,a többit,tricky,noun,A diákok,validation_noun_017,validation
+Délután [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,validation_none_000,validation
+A legtöbbet délután [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,validation_none_002,validation
+Gábor délután [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,Gábor,validation_noun_014,validation
+Hétvégén [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,validation_none_001,validation
+A diákok délután [VERB] őt.,definite,third_person_pronoun,őt,easy,noun,A diákok,validation_noun_016,validation
+Magát délután a diákok [VERB].,definite,third_person_pronoun,magát,tricky,noun,A diákok,validation_noun_017,validation
+A teremben [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,validation_none_003,validation
+Délután [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,validation_none_000,validation
+Délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,validation_none_000,validation
+A gyerek délután [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,noun,A gyerek,validation_noun_004,validation
+A teremben [VERB] a levelet.,definite,definite_article,a levelet,easy,none,,validation_none_003,validation
+Péter nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,noun,Péter,validation_noun_015,validation
+A teremben [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_003,validation
+Délután [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,validation_none_000,validation
+Azt délután [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,validation_none_001,validation
+Ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_001,validation
+A diákok délután [VERB] a levelet.,definite,definite_article,a levelet,easy,noun,A diákok,validation_noun_016,validation
+Hétvégén [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,validation_none_001,validation
+Lászlót délután [VERB].,definite,proper_noun,Lászlót,easy,none,,validation_none_002,validation
+Délután [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,validation_none_000,validation
+Bármit délután a diák [VERB].,indefinite,indefinite_pronoun,bármit,easy,noun,A diák,validation_noun_003,validation
+Minden egyes dolgot délután [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_002,validation
+A gyerek ma nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,noun,A gyerek,validation_noun_007,validation
+Mindenfélét délután [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,validation_none_002,validation
+A teremben [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_003,validation
+Délután [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_000,validation
+Délután [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,validation_none_000,validation
+Magukat délután [VERB].,definite,third_person_pronoun,magukat,tricky,none,,validation_none_002,validation
+A teremben [VERB] az előadást.,definite,definite_article,az előadást,easy,none,,validation_none_003,validation
+Hétvégén [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,validation_none_001,validation
+Délután [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,validation_none_000,validation
+Délután [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_000,validation
+Hétvégén [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,validation_none_001,validation
+Soha nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_002,validation
+Mi délután [VERB] az almát.,definite,definite_article,az almát,easy,pronoun,Mi,validation_pronoun_004,validation
+Semmifélét ma nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,none,,validation_none_004,validation
+A teremben [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,validation_none_003,validation
+A gyerek nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,noun,A gyerek,validation_noun_006,validation
+Hétvégén [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,validation_none_001,validation
+A teremben [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,validation_none_003,validation
+Hétvégén [VERB] Annát.,definite,proper_noun,Annát,easy,none,,validation_none_001,validation
+Hétvégén [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,validation_none_001,validation
+Mindenkit délután [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,validation_none_002,validation
+Én nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,pronoun,Én,validation_pronoun_000,validation
+Hétvégén [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,validation_none_001,validation
+Semmifélét a tanár nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,A tanár,validation_noun_002,validation
+Semmifélét én nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,pronoun,Én,validation_pronoun_002,validation
+Soha nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_002,validation
+Valamennyit délután Gábor [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,Gábor,validation_noun_015,validation
+A többit délután [VERB].,definite,definite_quantifier,a többit,tricky,none,,validation_none_002,validation
+A levelet délután a diákok [VERB].,definite,definite_article,a levelet,easy,noun,A diákok,validation_noun_017,validation
+Az összeset délután Katalin [VERB].,definite,definite_quantifier,az összeset,tricky,noun,Katalin,validation_noun_013,validation
+Délután [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,validation_none_000,validation
+A teremben [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,validation_none_003,validation
+Előadást délután Anna [VERB].,indefinite,bare_noun,előadást,easy,noun,Anna,validation_noun_009,validation
+Mi délután [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,pronoun,Mi,validation_pronoun_004,validation
+A tanár délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,A tanár,validation_noun_000,validation
+A teremben [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,validation_none_003,validation
+Délután [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,validation_none_000,validation
+Valakit délután [VERB].,indefinite,indefinite_pronoun,valakit,easy,none,,validation_none_002,validation
+Mindenfélét délután a tanár [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,A tanár,validation_noun_001,validation
+Hétvégén [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,validation_none_001,validation
+Az egészet délután [VERB].,definite,definite_quantifier,az egészet,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,validation_none_001,validation
+A szülők délután [VERB] előadást.,indefinite,bare_noun,előadást,easy,noun,A szülők,validation_noun_018,validation
+Hétvégén [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,validation_none_001,validation
+Mindent délután [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,validation_none_002,validation
+A teremben [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,validation_none_003,validation
+Mindet délután [VERB].,definite,definite_quantifier,mindet,tricky,none,,validation_none_002,validation
+A gyerek délután [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A gyerek,validation_noun_004,validation
+Almát délután a gyerek [VERB].,indefinite,bare_noun,almát,easy,noun,A gyerek,validation_noun_005,validation
+Hétvégén [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_001,validation
+Valamennyit délután a szülők [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,A szülők,validation_noun_019,validation
+Ők ma nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,pronoun,Ők,validation_pronoun_010,validation
+A teremben [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,validation_none_003,validation
+Hétvégén [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,validation_none_001,validation
+A többit délután a szomszéd [VERB].,definite,definite_quantifier,a többit,tricky,noun,A szomszéd,validation_noun_007,validation
+A teremben [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,validation_none_003,validation
+Magukat délután mi [VERB].,definite,third_person_pronoun,magukat,tricky,pronoun,Mi,validation_pronoun_005,validation
+Katalin délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,Katalin,validation_noun_012,validation
+A teremben [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,validation_none_003,validation
+Anna délután [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,Anna,validation_noun_008,validation
+Egy levelet délután a szülők [VERB].,indefinite,indefinite_article,egy levelet,easy,noun,A szülők,validation_noun_019,validation
+Néhányat délután [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_002,validation
+Te nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Te,validation_pronoun_003,validation
+Egy könyvet délután [VERB].,indefinite,indefinite_article,egy könyvet,easy,none,,validation_none_002,validation
+Senkit nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_003,validation
+A tanár délután [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,noun,A tanár,validation_noun_000,validation
+Autót délután [VERB].,indefinite,bare_noun,autót,easy,none,,validation_none_002,validation
+Hétvégén [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_001,validation
+Amazt délután te [VERB].,definite,demonstrative_pronoun,amazt,tricky,pronoun,Te,validation_pronoun_003,validation
+Hétvégén [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,validation_none_001,validation
+Sok filmet délután [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,none,,validation_none_002,validation
+Hétvégén [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,validation_none_001,validation
+Amazt délután [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,validation_none_001,validation
+Egy embert sem ma nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_004,validation
+A szomszéd délután [VERB] a könyvet.,definite,definite_article,a könyvet,easy,noun,A szomszéd,validation_noun_006,validation
+Nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_000,validation
+A gyerek délután [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,A gyerek,validation_noun_004,validation
+Emezt délután [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,validation_none_002,validation
+A teremben [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_003,validation
+Soha nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,validation_none_002,validation
+Mi délután [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,pronoun,Mi,validation_pronoun_004,validation
+Senkit ma nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_004,validation
+Semmit nem [VERB].,indefinite,negative_pronoun,semmit,tricky,none,,validation_none_003,validation
+Kevés hibát délután ők [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,pronoun,Ők,validation_pronoun_007,validation
+A teremben [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_003,validation
+Hétvégén [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,validation_none_001,validation
+A szomszéd délután [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A szomszéd,validation_noun_006,validation
+Magát délután a tanár [VERB].,definite,third_person_pronoun,magát,tricky,noun,A tanár,validation_noun_001,validation
+Hétvégén [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,validation_none_001,validation
+Hétvégén [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,validation_none_001,validation
+Egy dolgot sem a diák nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,noun,A diák,validation_noun_005,validation
+A teremben [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,validation_none_003,validation
+Minden nap [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,test_none_000,test
+Levelet az iskolában a diák [VERB].,indefinite,bare_noun,levelet,easy,noun,A diák,test_noun_003,test
+Minden nap [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,test_none_000,test
+Minden egyes dolgot az iskolában te [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,pronoun,Te,test_pronoun_003,test
+A diák tegnap este [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A diák,test_noun_002,test
+Néhányat az iskolában [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,test_none_002,test
+Minden nap [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,test_none_000,test
+Egyvalakit az iskolában [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_002,test
+Őket az iskolában [VERB].,definite,third_person_pronoun,őket,easy,none,,test_none_002,test
+Senkit nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,test_none_003,test
+Magát az iskolában a tanár [VERB].,definite,third_person_pronoun,magát,tricky,noun,A tanár,test_noun_001,test
+Ma nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,test_none_001,test
+A diákok tegnap este [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,noun,A diákok,test_noun_016,test
+Péter tegnap este [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,Péter,test_noun_010,test
+Tegnap este [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,test_none_001,test
+Minden egyes dolgot az iskolában [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,test_none_002,test
+Mindenfélét az iskolában a tanár [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,A tanár,test_noun_001,test
+"Azt hiszem, [VERB] mindenkit.",indefinite,universal_pronoun,mindenkit,tricky,none,,test_none_003,test
+Nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,none,,test_none_000,test
+A levelet az iskolában [VERB].,definite,definite_article,a levelet,easy,none,,test_none_002,test
+Mindet az iskolában te [VERB].,definite,definite_quantifier,mindet,tricky,pronoun,Te,test_pronoun_003,test
+Sok filmet az iskolában a diákok [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A diákok,test_noun_017,test
+Tegnap este [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,test_none_001,test
+Minden nap [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,test_none_000,test
+Soha nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,none,,test_none_002,test
+"Azt hiszem, [VERB] amazt.",definite,demonstrative_pronoun,amazt,tricky,none,,test_none_003,test
+Minden nap [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,test_none_000,test
+Egy autót az iskolában [VERB].,indefinite,indefinite_article,egy autót,easy,none,,test_none_002,test
+Mindent az iskolában [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,test_none_002,test
+Pár kérdést az iskolában én [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,pronoun,Én,test_pronoun_001,test
+A diákok tegnap este [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,noun,A diákok,test_noun_016,test
+Valakit az iskolában a gyerek [VERB].,indefinite,indefinite_pronoun,valakit,easy,noun,A gyerek,test_noun_005,test
+Minden nap [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,test_none_000,test
+Sok filmet az iskolában a tanár [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A tanár,test_noun_001,test
+Ezt az iskolában [VERB].,definite,demonstrative_pronoun,ezt,tricky,none,,test_none_002,test
+Anna tegnap este [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,noun,Anna,test_noun_008,test
+Minden nap [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,test_none_000,test
+Akárkit az iskolában Katalin [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,noun,Katalin,test_noun_013,test
+Levelet az iskolában Gábor [VERB].,indefinite,bare_noun,levelet,easy,noun,Gábor,test_noun_015,test
+Minden nap [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_000,test
+Őt az iskolában a diákok [VERB].,definite,third_person_pronoun,őt,easy,noun,A diákok,test_noun_017,test
+A diák ma nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,noun,A diák,test_noun_004,test
+Tegnap este [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_001,test
+Magukat az iskolában [VERB].,definite,third_person_pronoun,magukat,tricky,none,,test_none_002,test
+A gyerek tegnap este [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,noun,A gyerek,test_noun_004,test
+Én tegnap este [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,pronoun,Én,test_pronoun_000,test
+Én tegnap este [VERB] Annát.,definite,proper_noun,Annát,easy,pronoun,Én,test_pronoun_000,test
+Tegnap este [VERB] Annát.,definite,proper_noun,Annát,easy,none,,test_none_001,test
+Több almát az iskolában [VERB].,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_002,test
+A diák tegnap este [VERB] az újságot.,definite,definite_article,az újságot,easy,noun,A diák,test_noun_002,test
+Anna tegnap este [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,noun,Anna,test_noun_008,test
+Mindent az iskolában a diákok [VERB].,indefinite,universal_pronoun,mindent,tricky,noun,A diákok,test_noun_017,test
+Tegnap este [VERB] autót.,indefinite,bare_noun,autót,easy,none,,test_none_001,test
+A tanár tegnap este [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,A tanár,test_noun_000,test
+Anna ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,noun,Anna,test_noun_013,test
+Tegnap este [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,test_none_001,test
+Minden nap [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,test_none_000,test
+Minden nap [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,test_none_000,test
+Amazt az iskolában Gábor [VERB].,definite,demonstrative_pronoun,amazt,tricky,noun,Gábor,test_noun_015,test
+Anna nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,noun,Anna,test_noun_012,test
+Tegnap este [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,test_none_001,test
+Akármit az iskolában ők [VERB].,indefinite,indefinite_pronoun,akármit,tricky,pronoun,Ők,test_pronoun_007,test
+Tegnap este [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_001,test
+Az egészet az iskolában [VERB].,definite,definite_quantifier,az egészet,tricky,none,,test_none_002,test
+Tegnap este [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,none,,test_none_001,test
+Mindkettőt az iskolában a szomszéd [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A szomszéd,test_noun_007,test
+"Azt hiszem, [VERB] valamennyit.",definite,definite_quantifier,valamennyit,tricky,none,,test_none_003,test
+Néhány levelet az iskolában [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,test_none_002,test
+Tegnap este [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,test_none_001,test
+Minden nap [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,test_none_000,test
+Gábort az iskolában [VERB].,definite,proper_noun,Gábort,easy,none,,test_none_002,test
+Senkit ma nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,test_none_004,test
+"Azt hiszem, [VERB] mindent.",indefinite,universal_pronoun,mindent,tricky,none,,test_none_003,test
+Egy előadást az iskolában [VERB].,indefinite,indefinite_article,egy előadást,easy,none,,test_none_002,test
+Az utolsó kérdést az iskolában a tanár [VERB].,definite,modified_definite_np,az utolsó kérdést,easy,noun,A tanár,test_noun_001,test
+Minden nap [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,test_none_000,test
+Néhány levelet az iskolában Anna [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,Anna,test_noun_009,test
+Mi tegnap este [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,pronoun,Mi,test_pronoun_004,test
+"Azt hiszem, [VERB] sok filmet.",indefinite,quantified_indefinite_np,sok filmet,medium,none,,test_none_003,test
+Emezt az iskolában [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_002,test
+Katalint az iskolában [VERB].,definite,proper_noun,Katalint,easy,none,,test_none_002,test
+Minden nap [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,test_none_000,test
+Tegnap este [VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,test_none_001,test
+Valakit az iskolában [VERB].,indefinite,indefinite_pronoun,valakit,easy,none,,test_none_002,test
+A szomszéd tegnap este [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A szomszéd,test_noun_006,test
+Tegnap este [VERB] az almát.,definite,definite_article,az almát,easy,none,,test_none_001,test
+Gábor nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,noun,Gábor,test_noun_021,test
+Gábor tegnap este [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,noun,Gábor,test_noun_014,test
+Minden nap [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,test_none_000,test
+Minden nap [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_000,test
+A legtöbbet az iskolában Katalin [VERB].,definite,definite_quantifier,a legtöbbet,tricky,noun,Katalin,test_noun_013,test
+Minden nap [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,test_none_000,test
+Te ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,test_pronoun_004,test
+A diák tegnap este [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,noun,A diák,test_noun_002,test
+Minden nap [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_000,test
+Minden nap [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,test_none_000,test
+Tegnap este [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,test_none_001,test
+Minden nap [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,test_none_000,test
+Tegnap este [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,test_none_001,test
+Ők tegnap este [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,pronoun,Ők,test_pronoun_006,test
+Soha nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,test_none_002,test
+"Azt hiszem, [VERB] egy levelet.",indefinite,indefinite_article,egy levelet,easy,none,,test_none_003,test
+Minden nap [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,test_none_000,test
+Katalint az iskolában a szomszéd [VERB].,definite,proper_noun,Katalint,easy,noun,A szomszéd,test_noun_007,test
+"Azt hiszem, [VERB] emezt.",definite,demonstrative_pronoun,emezt,tricky,none,,test_none_003,test
+Minden nap [VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,none,,test_none_000,test
+"Azt hiszem, [VERB] almát.",indefinite,bare_noun,almát,easy,none,,test_none_003,test
+Ezt az almát az iskolában [VERB].,definite,demonstrative,ezt az almát,easy,none,,test_none_002,test
+A régi házat az iskolában [VERB].,definite,modified_definite_np,a régi házat,easy,none,,test_none_002,test
+Tegnap este [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_001,test
+Minden nap [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,test_none_000,test
+Tegnap este [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,test_none_001,test
+"Azt hiszem, [VERB] több almát.",indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_003,test
+Azt az iskolában [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,test_none_002,test
+Tegnap este [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,test_none_001,test
+Katalin tegnap este [VERB] az előadást.,definite,definite_article,az előadást,easy,noun,Katalin,test_noun_012,test
+Minden nap [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,test_none_000,test
+Te nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,test_pronoun_003,test
+"Azt hiszem, [VERB] a piros labdát.",definite,modified_definite_np,a piros labdát,easy,none,,test_none_003,test
+A tanár tegnap este [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,noun,A tanár,test_noun_000,test

@@ -1,0 +1,121 @@
+sentence,label,object_type,object,difficulty,subject_type,subject,template_id,split
+Minden nap [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,test_none_000,test
+Levelet az iskolában a diák [VERB].,indefinite,bare_noun,levelet,easy,noun,A diák,test_noun_003,test
+Minden nap [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,test_none_000,test
+Minden egyes dolgot az iskolában te [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,pronoun,Te,test_pronoun_003,test
+A diák tegnap este [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A diák,test_noun_002,test
+Néhányat az iskolában [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,test_none_002,test
+Minden nap [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,test_none_000,test
+Egyvalakit az iskolában [VERB].,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_002,test
+Őket az iskolában [VERB].,definite,third_person_pronoun,őket,easy,none,,test_none_002,test
+Senkit nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,test_none_003,test
+Magát az iskolában a tanár [VERB].,definite,third_person_pronoun,magát,tricky,noun,A tanár,test_noun_001,test
+Ma nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,test_none_001,test
+A diákok tegnap este [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,noun,A diákok,test_noun_016,test
+Péter tegnap este [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,noun,Péter,test_noun_010,test
+Tegnap este [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,test_none_001,test
+Minden egyes dolgot az iskolában [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,test_none_002,test
+Mindenfélét az iskolában a tanár [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,A tanár,test_noun_001,test
+"Azt hiszem, [VERB] mindenkit.",indefinite,universal_pronoun,mindenkit,tricky,none,,test_none_003,test
+Nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,none,,test_none_000,test
+A levelet az iskolában [VERB].,definite,definite_article,a levelet,easy,none,,test_none_002,test
+Mindet az iskolában te [VERB].,definite,definite_quantifier,mindet,tricky,pronoun,Te,test_pronoun_003,test
+Sok filmet az iskolában a diákok [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A diákok,test_noun_017,test
+Tegnap este [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,test_none_001,test
+Minden nap [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,test_none_000,test
+Soha nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,none,,test_none_002,test
+"Azt hiszem, [VERB] amazt.",definite,demonstrative_pronoun,amazt,tricky,none,,test_none_003,test
+Minden nap [VERB] mindet.,definite,definite_quantifier,mindet,tricky,none,,test_none_000,test
+Egy autót az iskolában [VERB].,indefinite,indefinite_article,egy autót,easy,none,,test_none_002,test
+Mindent az iskolában [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,test_none_002,test
+Pár kérdést az iskolában én [VERB].,indefinite,quantified_indefinite_np,pár kérdést,medium,pronoun,Én,test_pronoun_001,test
+A diákok tegnap este [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,noun,A diákok,test_noun_016,test
+Valakit az iskolában a gyerek [VERB].,indefinite,indefinite_pronoun,valakit,easy,noun,A gyerek,test_noun_005,test
+Minden nap [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,test_none_000,test
+Sok filmet az iskolában a tanár [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,noun,A tanár,test_noun_001,test
+Ezt az iskolában [VERB].,definite,demonstrative_pronoun,ezt,tricky,none,,test_none_002,test
+Anna tegnap este [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,noun,Anna,test_noun_008,test
+Minden nap [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,test_none_000,test
+Akárkit az iskolában Katalin [VERB].,indefinite,indefinite_pronoun,akárkit,tricky,noun,Katalin,test_noun_013,test
+Levelet az iskolában Gábor [VERB].,indefinite,bare_noun,levelet,easy,noun,Gábor,test_noun_015,test
+Minden nap [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_000,test
+Őt az iskolában a diákok [VERB].,definite,third_person_pronoun,őt,easy,noun,A diákok,test_noun_017,test
+A diák ma nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,noun,A diák,test_noun_004,test
+Tegnap este [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_001,test
+Magukat az iskolában [VERB].,definite,third_person_pronoun,magukat,tricky,none,,test_none_002,test
+A gyerek tegnap este [VERB] azt a filmet.,definite,demonstrative,azt a filmet,easy,noun,A gyerek,test_noun_004,test
+Én tegnap este [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,pronoun,Én,test_pronoun_000,test
+Én tegnap este [VERB] Annát.,definite,proper_noun,Annát,easy,pronoun,Én,test_pronoun_000,test
+Tegnap este [VERB] Annát.,definite,proper_noun,Annát,easy,none,,test_none_001,test
+Több almát az iskolában [VERB].,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_002,test
+A diák tegnap este [VERB] az újságot.,definite,definite_article,az újságot,easy,noun,A diák,test_noun_002,test
+Anna tegnap este [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,noun,Anna,test_noun_008,test
+Mindent az iskolában a diákok [VERB].,indefinite,universal_pronoun,mindent,tricky,noun,A diákok,test_noun_017,test
+Tegnap este [VERB] autót.,indefinite,bare_noun,autót,easy,none,,test_none_001,test
+A tanár tegnap este [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,noun,A tanár,test_noun_000,test
+Anna ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,noun,Anna,test_noun_013,test
+Tegnap este [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,test_none_001,test
+Minden nap [VERB] egy újságot.,indefinite,indefinite_article,egy újságot,easy,none,,test_none_000,test
+Minden nap [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,test_none_000,test
+Amazt az iskolában Gábor [VERB].,definite,demonstrative_pronoun,amazt,tricky,noun,Gábor,test_noun_015,test
+Anna nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,noun,Anna,test_noun_012,test
+Tegnap este [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,test_none_001,test
+Akármit az iskolában ők [VERB].,indefinite,indefinite_pronoun,akármit,tricky,pronoun,Ők,test_pronoun_007,test
+Tegnap este [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_001,test
+Az egészet az iskolában [VERB].,definite,definite_quantifier,az egészet,tricky,none,,test_none_002,test
+Tegnap este [VERB] azt az üzenetet.,definite,demonstrative,azt az üzenetet,easy,none,,test_none_001,test
+Mindkettőt az iskolában a szomszéd [VERB].,definite,definite_quantifier,mindkettőt,tricky,noun,A szomszéd,test_noun_007,test
+"Azt hiszem, [VERB] valamennyit.",definite,definite_quantifier,valamennyit,tricky,none,,test_none_003,test
+Néhány levelet az iskolában [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,test_none_002,test
+Tegnap este [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,test_none_001,test
+Minden nap [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,test_none_000,test
+Gábort az iskolában [VERB].,definite,proper_noun,Gábort,easy,none,,test_none_002,test
+Senkit ma nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,test_none_004,test
+"Azt hiszem, [VERB] mindent.",indefinite,universal_pronoun,mindent,tricky,none,,test_none_003,test
+Egy előadást az iskolában [VERB].,indefinite,indefinite_article,egy előadást,easy,none,,test_none_002,test
+Az utolsó kérdést az iskolában a tanár [VERB].,definite,modified_definite_np,az utolsó kérdést,easy,noun,A tanár,test_noun_001,test
+Minden nap [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,test_none_000,test
+Néhány levelet az iskolában Anna [VERB].,indefinite,quantified_indefinite_np,néhány levelet,medium,noun,Anna,test_noun_009,test
+Mi tegnap este [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,pronoun,Mi,test_pronoun_004,test
+"Azt hiszem, [VERB] sok filmet.",indefinite,quantified_indefinite_np,sok filmet,medium,none,,test_none_003,test
+Emezt az iskolában [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_002,test
+Katalint az iskolában [VERB].,definite,proper_noun,Katalint,easy,none,,test_none_002,test
+Minden nap [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,none,,test_none_000,test
+Tegnap este [VERB] a könyvet.,definite,definite_article,a könyvet,easy,none,,test_none_001,test
+Valakit az iskolában [VERB].,indefinite,indefinite_pronoun,valakit,easy,none,,test_none_002,test
+A szomszéd tegnap este [VERB] mindet.,definite,definite_quantifier,mindet,tricky,noun,A szomszéd,test_noun_006,test
+Tegnap este [VERB] az almát.,definite,definite_article,az almát,easy,none,,test_none_001,test
+Gábor nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,noun,Gábor,test_noun_021,test
+Gábor tegnap este [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,noun,Gábor,test_noun_014,test
+Minden nap [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,test_none_000,test
+Minden nap [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_000,test
+A legtöbbet az iskolában Katalin [VERB].,definite,definite_quantifier,a legtöbbet,tricky,noun,Katalin,test_noun_013,test
+Minden nap [VERB] egy vacsorát.,indefinite,indefinite_article,egy vacsorát,easy,none,,test_none_000,test
+Te ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,test_pronoun_004,test
+A diák tegnap este [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,noun,A diák,test_noun_002,test
+Minden nap [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,test_none_000,test
+Minden nap [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,test_none_000,test
+Tegnap este [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,test_none_001,test
+Minden nap [VERB] vacsorát.,indefinite,bare_noun,vacsorát,easy,none,,test_none_000,test
+Tegnap este [VERB] Katalint.,definite,proper_noun,Katalint,easy,none,,test_none_001,test
+Ők tegnap este [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,pronoun,Ők,test_pronoun_006,test
+Soha nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,test_none_002,test
+"Azt hiszem, [VERB] egy levelet.",indefinite,indefinite_article,egy levelet,easy,none,,test_none_003,test
+Minden nap [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,test_none_000,test
+Katalint az iskolában a szomszéd [VERB].,definite,proper_noun,Katalint,easy,noun,A szomszéd,test_noun_007,test
+"Azt hiszem, [VERB] emezt.",definite,demonstrative_pronoun,emezt,tricky,none,,test_none_003,test
+Minden nap [VERB] egy almát.,indefinite,indefinite_article,egy almát,easy,none,,test_none_000,test
+"Azt hiszem, [VERB] almát.",indefinite,bare_noun,almát,easy,none,,test_none_003,test
+Ezt az almát az iskolában [VERB].,definite,demonstrative,ezt az almát,easy,none,,test_none_002,test
+A régi házat az iskolában [VERB].,definite,modified_definite_np,a régi házat,easy,none,,test_none_002,test
+Tegnap este [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,none,,test_none_001,test
+Minden nap [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,test_none_000,test
+Tegnap este [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,test_none_001,test
+"Azt hiszem, [VERB] több almát.",indefinite,quantified_indefinite_np,több almát,medium,none,,test_none_003,test
+Azt az iskolában [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,test_none_002,test
+Tegnap este [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,none,,test_none_001,test
+Katalin tegnap este [VERB] az előadást.,definite,definite_article,az előadást,easy,noun,Katalin,test_noun_012,test
+Minden nap [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,test_none_000,test
+Te nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,pronoun,Te,test_pronoun_003,test
+"Azt hiszem, [VERB] a piros labdát.",definite,modified_definite_np,a piros labdát,easy,none,,test_none_003,test
+A tanár tegnap este [VERB] valamit.,indefinite,indefinite_pronoun,valamit,easy,noun,A tanár,test_noun_000,test

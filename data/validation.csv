@@ -1,0 +1,121 @@
+sentence,label,object_type,object,difficulty,subject_type,subject,template_id,split
+Az összeset délután Péter [VERB].,definite,definite_quantifier,az összeset,tricky,noun,Péter,validation_noun_011,validation
+Ezt délután a tanár [VERB].,definite,demonstrative_pronoun,ezt,tricky,noun,A tanár,validation_noun_001,validation
+Péter délután [VERB] egy levelet.,indefinite,indefinite_article,egy levelet,easy,noun,Péter,validation_noun_010,validation
+A többit délután a diákok [VERB].,definite,definite_quantifier,a többit,tricky,noun,A diákok,validation_noun_017,validation
+Délután [VERB] mindkettőt.,definite,definite_quantifier,mindkettőt,tricky,none,,validation_none_000,validation
+A legtöbbet délután [VERB].,definite,definite_quantifier,a legtöbbet,tricky,none,,validation_none_002,validation
+Gábor délután [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,noun,Gábor,validation_noun_014,validation
+Hétvégén [VERB] egy autót.,indefinite,indefinite_article,egy autót,easy,none,,validation_none_001,validation
+A diákok délután [VERB] őt.,definite,third_person_pronoun,őt,easy,noun,A diákok,validation_noun_016,validation
+Magát délután a diákok [VERB].,definite,third_person_pronoun,magát,tricky,noun,A diákok,validation_noun_017,validation
+A teremben [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,validation_none_003,validation
+Délután [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,validation_none_000,validation
+Délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,validation_none_000,validation
+A gyerek délután [VERB] valakit.,indefinite,indefinite_pronoun,valakit,easy,noun,A gyerek,validation_noun_004,validation
+A teremben [VERB] a levelet.,definite,definite_article,a levelet,easy,none,,validation_none_003,validation
+Péter nem [VERB] semmifélét.,indefinite,negative_pronoun,semmifélét,tricky,noun,Péter,validation_noun_015,validation
+A teremben [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_003,validation
+Délután [VERB] a többit.,definite,definite_quantifier,a többit,tricky,none,,validation_none_000,validation
+Azt délután [VERB].,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] ezt.,definite,demonstrative_pronoun,ezt,tricky,none,,validation_none_001,validation
+Ma nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_001,validation
+A diákok délután [VERB] a levelet.,definite,definite_article,a levelet,easy,noun,A diákok,validation_noun_016,validation
+Hétvégén [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,validation_none_001,validation
+Lászlót délután [VERB].,definite,proper_noun,Lászlót,easy,none,,validation_none_002,validation
+Délután [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,none,,validation_none_000,validation
+Bármit délután a diák [VERB].,indefinite,indefinite_pronoun,bármit,easy,noun,A diák,validation_noun_003,validation
+Minden egyes dolgot délután [VERB].,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_002,validation
+A gyerek ma nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,noun,A gyerek,validation_noun_007,validation
+Mindenfélét délután [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,none,,validation_none_002,validation
+A teremben [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_003,validation
+Délután [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_000,validation
+Délután [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,none,,validation_none_000,validation
+Magukat délután [VERB].,definite,third_person_pronoun,magukat,tricky,none,,validation_none_002,validation
+A teremben [VERB] az előadást.,definite,definite_article,az előadást,easy,none,,validation_none_003,validation
+Hétvégén [VERB] mindenkit.,indefinite,universal_pronoun,mindenkit,tricky,none,,validation_none_001,validation
+Délután [VERB] magát.,definite,third_person_pronoun,magát,tricky,none,,validation_none_000,validation
+Délután [VERB] néhányat.,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_000,validation
+Hétvégén [VERB] ezt a feladatot.,definite,demonstrative,ezt a feladatot,easy,none,,validation_none_001,validation
+Soha nem [VERB] egy embert sem.,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_002,validation
+Mi délután [VERB] az almát.,definite,definite_article,az almát,easy,pronoun,Mi,validation_pronoun_004,validation
+Semmifélét ma nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,none,,validation_none_004,validation
+A teremben [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,validation_none_003,validation
+A gyerek nem [VERB] semmit.,indefinite,negative_pronoun,semmit,tricky,noun,A gyerek,validation_noun_006,validation
+Hétvégén [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,none,,validation_none_001,validation
+A teremben [VERB] emezt.,definite,demonstrative_pronoun,emezt,tricky,none,,validation_none_003,validation
+Hétvégén [VERB] Annát.,definite,proper_noun,Annát,easy,none,,validation_none_001,validation
+Hétvégén [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,validation_none_001,validation
+Mindenkit délután [VERB].,indefinite,universal_pronoun,mindenkit,tricky,none,,validation_none_002,validation
+Én nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,pronoun,Én,validation_pronoun_000,validation
+Hétvégén [VERB] az új telefont.,definite,modified_definite_np,az új telefont,easy,none,,validation_none_001,validation
+Semmifélét a tanár nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,noun,A tanár,validation_noun_002,validation
+Semmifélét én nem [VERB].,indefinite,negative_pronoun,semmifélét,tricky,pronoun,Én,validation_pronoun_002,validation
+Soha nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_002,validation
+Valamennyit délután Gábor [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,Gábor,validation_noun_015,validation
+A többit délután [VERB].,definite,definite_quantifier,a többit,tricky,none,,validation_none_002,validation
+A levelet délután a diákok [VERB].,definite,definite_article,a levelet,easy,noun,A diákok,validation_noun_017,validation
+Az összeset délután Katalin [VERB].,definite,definite_quantifier,az összeset,tricky,noun,Katalin,validation_noun_013,validation
+Délután [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,validation_none_000,validation
+A teremben [VERB] az egészet.,definite,definite_quantifier,az egészet,tricky,none,,validation_none_003,validation
+Előadást délután Anna [VERB].,indefinite,bare_noun,előadást,easy,noun,Anna,validation_noun_009,validation
+Mi délután [VERB] magukat.,definite,third_person_pronoun,magukat,tricky,pronoun,Mi,validation_pronoun_004,validation
+A tanár délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,A tanár,validation_noun_000,validation
+A teremben [VERB] az összeset.,definite,definite_quantifier,az összeset,tricky,none,,validation_none_003,validation
+Délután [VERB] a legtöbbet.,definite,definite_quantifier,a legtöbbet,tricky,none,,validation_none_000,validation
+Valakit délután [VERB].,indefinite,indefinite_pronoun,valakit,easy,none,,validation_none_002,validation
+Mindenfélét délután a tanár [VERB].,indefinite,universal_pronoun,mindenfélét,tricky,noun,A tanár,validation_noun_001,validation
+Hétvégén [VERB] pár kérdést.,indefinite,quantified_indefinite_np,pár kérdést,medium,none,,validation_none_001,validation
+Az egészet délután [VERB].,definite,definite_quantifier,az egészet,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] a régi házat.,definite,modified_definite_np,a régi házat,easy,none,,validation_none_001,validation
+A szülők délután [VERB] előadást.,indefinite,bare_noun,előadást,easy,noun,A szülők,validation_noun_018,validation
+Hétvégén [VERB] Esztert.,definite,proper_noun,Esztert,easy,none,,validation_none_001,validation
+Mindent délután [VERB].,indefinite,universal_pronoun,mindent,tricky,none,,validation_none_002,validation
+A teremben [VERB] előadást.,indefinite,bare_noun,előadást,easy,none,,validation_none_003,validation
+Mindet délután [VERB].,definite,definite_quantifier,mindet,tricky,none,,validation_none_002,validation
+A gyerek délután [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A gyerek,validation_noun_004,validation
+Almát délután a gyerek [VERB].,indefinite,bare_noun,almát,easy,noun,A gyerek,validation_noun_005,validation
+Hétvégén [VERB] amazt.,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_001,validation
+Valamennyit délután a szülők [VERB].,definite,definite_quantifier,valamennyit,tricky,noun,A szülők,validation_noun_019,validation
+Ők ma nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,pronoun,Ők,validation_pronoun_010,validation
+A teremben [VERB] filmet.,indefinite,bare_noun,filmet,easy,none,,validation_none_003,validation
+Hétvégén [VERB] a piros labdát.,definite,modified_definite_np,a piros labdát,easy,none,,validation_none_001,validation
+A többit délután a szomszéd [VERB].,definite,definite_quantifier,a többit,tricky,noun,A szomszéd,validation_noun_007,validation
+A teremben [VERB] akárkit.,indefinite,indefinite_pronoun,akárkit,tricky,none,,validation_none_003,validation
+Magukat délután mi [VERB].,definite,third_person_pronoun,magukat,tricky,pronoun,Mi,validation_pronoun_005,validation
+Katalin délután [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,noun,Katalin,validation_noun_012,validation
+A teremben [VERB] mindenfélét.,indefinite,universal_pronoun,mindenfélét,tricky,none,,validation_none_003,validation
+Anna délután [VERB] mindegyiket.,definite,definite_quantifier,mindegyiket,tricky,noun,Anna,validation_noun_008,validation
+Egy levelet délután a szülők [VERB].,indefinite,indefinite_article,egy levelet,easy,noun,A szülők,validation_noun_019,validation
+Néhányat délután [VERB].,indefinite,indefinite_pronoun,néhányat,tricky,none,,validation_none_002,validation
+Te nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,pronoun,Te,validation_pronoun_003,validation
+Egy könyvet délután [VERB].,indefinite,indefinite_article,egy könyvet,easy,none,,validation_none_002,validation
+Senkit nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_003,validation
+A tanár délután [VERB] ezt a könyvet.,definite,demonstrative,ezt a könyvet,easy,noun,A tanár,validation_noun_000,validation
+Autót délután [VERB].,indefinite,bare_noun,autót,easy,none,,validation_none_002,validation
+Hétvégén [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_001,validation
+Amazt délután te [VERB].,definite,demonstrative_pronoun,amazt,tricky,pronoun,Te,validation_pronoun_003,validation
+Hétvégén [VERB] az újságot.,definite,definite_article,az újságot,easy,none,,validation_none_001,validation
+Sok filmet délután [VERB].,indefinite,quantified_indefinite_np,sok filmet,medium,none,,validation_none_002,validation
+Hétvégén [VERB] könyvet.,indefinite,bare_noun,könyvet,easy,none,,validation_none_001,validation
+Amazt délután [VERB].,definite,demonstrative_pronoun,amazt,tricky,none,,validation_none_002,validation
+Hétvégén [VERB] néhány levelet.,indefinite,quantified_indefinite_np,néhány levelet,medium,none,,validation_none_001,validation
+Egy embert sem ma nem [VERB].,indefinite,negative_pronoun,egy embert sem,tricky,none,,validation_none_004,validation
+A szomszéd délután [VERB] a könyvet.,definite,definite_article,a könyvet,easy,noun,A szomszéd,validation_noun_006,validation
+Nem [VERB] senkit.,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_000,validation
+A gyerek délután [VERB] mindent.,indefinite,universal_pronoun,mindent,tricky,noun,A gyerek,validation_noun_004,validation
+Emezt délután [VERB].,definite,demonstrative_pronoun,emezt,tricky,none,,validation_none_002,validation
+A teremben [VERB] minden egyes dolgot.,indefinite,universal_pronoun,minden egyes dolgot,tricky,none,,validation_none_003,validation
+Soha nem [VERB] egy dolgot sem.,indefinite,negative_pronoun,egy dolgot sem,tricky,none,,validation_none_002,validation
+Mi délután [VERB] azt a levelet.,definite,demonstrative,azt a levelet,easy,pronoun,Mi,validation_pronoun_004,validation
+Senkit ma nem [VERB].,indefinite,negative_pronoun,senkit,tricky,none,,validation_none_004,validation
+Semmit nem [VERB].,indefinite,negative_pronoun,semmit,tricky,none,,validation_none_003,validation
+Kevés hibát délután ők [VERB].,indefinite,quantified_indefinite_np,kevés hibát,medium,pronoun,Ők,validation_pronoun_007,validation
+A teremben [VERB] azt.,definite,demonstrative_pronoun,azt,tricky,none,,validation_none_003,validation
+Hétvégén [VERB] valamennyit.,definite,definite_quantifier,valamennyit,tricky,none,,validation_none_001,validation
+A szomszéd délután [VERB] egyvalakit.,indefinite,indefinite_pronoun,egyvalakit,tricky,noun,A szomszéd,validation_noun_006,validation
+Magát délután a tanár [VERB].,definite,third_person_pronoun,magát,tricky,noun,A tanár,validation_noun_001,validation
+Hétvégén [VERB] az utolsó kérdést.,definite,modified_definite_np,az utolsó kérdést,easy,none,,validation_none_001,validation
+Hétvégén [VERB] több almát.,indefinite,quantified_indefinite_np,több almát,medium,none,,validation_none_001,validation
+Egy dolgot sem a diák nem [VERB].,indefinite,negative_pronoun,egy dolgot sem,tricky,noun,A diák,validation_noun_005,validation
+A teremben [VERB] akármit.,indefinite,indefinite_pronoun,akármit,tricky,none,,validation_none_003,validation
