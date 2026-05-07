@@ -5,18 +5,18 @@ This project trains embedding-based classifiers to predict whether a masked Hung
 Example:
 
 ```text
-[VERB] a könyvet.      -> definite
-[VERB] egy könyvet.    -> indefinite
-[VERB] mindet.         -> definite
-[VERB] mindent.        -> indefinite
+[VERB] a könyvet.       -> definite
+[VERB] egy könyvet.     -> indefinite
+Tegnap [VERB] Katalint. -> definite
+Tegnap [VERB] bárkit.   -> indefinite
 ```
 
 The project was developed for Assignment 1 in Information Retrieval (5LN712), Uppsala University.
 
 ## Links
 
-- GitHub repository: `[insert GitHub link]`
-- Hugging Face dataset: `[insert Hugging Face dataset link]`
+- GitHub repository: <https://github.com/elintove/hungarian-conjugation-classifier>
+- Hugging Face dataset: <https://huggingface.co/datasets/elintove/hu-sentences-masked-verb>
 - Hugging Face demo Space: <https://huggingface.co/spaces/elintove/RagozoMeter>
 
 ## Project Overview
@@ -118,7 +118,7 @@ train_linear_svm.py        Linear SVM experiment
 train_random_forest.py     Random Forest experiment
 data/                      Train, validation, test, and full CSV files
 models/                    Saved classifiers and metrics
-IRass1_report_revised.tex  LaTeX report
+IRass1_report.tex          LaTeX report
 ```
 
 ## Limitations
