@@ -118,7 +118,7 @@ train_linear_svm.py        Linear SVM experiment
 train_random_forest.py     Random Forest experiment
 data/                      Train, validation, test, and full CSV files
 models/                    Saved classifiers and metrics
-IRass1_report.tex          LaTeX report
+IRass1_report.pdf          LaTeX report
 ```
 
 ## Limitations
